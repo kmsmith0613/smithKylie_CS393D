@@ -178,4 +178,362 @@ LogInit: Object subsystem initialized
 [2016.12.02-22.41.38:201][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
 [2016.12.02-22.41.38:201][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000026 seconds (updated 0 objects)
 [2016.12.02-22.41.49:978][724]LogAIModule: Creating AISystem for world CompanyScreenLevel
-[2016.12.02-2
+[2016.12.02-22.41.50:003][724]Cmd: MAP LOAD FILE="G:/smithKylie_CS393D/ProjectStarWars 4.12/Content/OpeningSequence/CompanyScreenLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.12.02-22.41.50:003][724]LightingResults: New page: Lighting Build
+[2016.12.02-22.41.50:004][724]LoadErrors: New page: Loading map: CompanyScreenLevel.umap
+[2016.12.02-22.41.50:004][724]MapCheck: New page: Map Check
+[2016.12.02-22.41.50:004][724]LightingResults: New page: Lighting Build
+[2016.12.02-22.41.50:019][724]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.12.02-22.41.50:030][724]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.12.02-22.41.50:075][724]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 44.932ms to complete.
+[2016.12.02-22.41.50:075][724]LogFileHelpers: Loading map 'CompanyScreenLevel' took 0.073
+[2016.12.03-00.14.20:055][524]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:/TitleScreen.png)
+[2016.12.03-00.14.20:112][524]LogTexture:Display: Building textures: TitleScreen (AutoDXT)
+[2016.12.03-00.14.23:522][867]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/OpeningSequence/CompanyScreenLevel' took 0.010
+[2016.12.03-00.14.23:523][867]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OpeningSequence/TitleScreen] ([1] browsable assets)...
+[2016.12.03-00.14.23:538][867]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OpeningSequence/TitleScreen.TitleScreen]
+[2016.12.03-00.14.23:538][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/OpeningSequence/TitleScreen]
+[2016.12.03-00.14.23:538][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OpeningSequence/TitleScreen" FILE="G:/smithKylie_CS393D/ProjectStarWars 4.12/Saved/Autosaves/Game/OpeningSequence/TitleScreen_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2016.12.03-00.14.23:553][867]LogSavePackage: Save=13.96ms
+[2016.12.03-00.14.23:553][867]LogSavePackage: Moving 'G:/smithKylie_CS393D/ProjectStarWars 4.12/Saved/TitleScreen_Auto1F9B1B68F4330AC40BA4CC986DE89632C.tmp' to 'G:/smithKylie_CS393D/ProjectStarWars 4.12/Saved/Autosaves/Game/OpeningSequence/TitleScreen_Auto1.uasset'
+[2016.12.03-00.14.23:553][867]LogSavePackage:Display: Finished SavePackage G:/smithKylie_CS393D/ProjectStarWars 4.12/Saved/Autosaves/Game/OpeningSequence/TitleScreen_Auto1.uasset
+[2016.12.03-00.14.23:553][867]LogFileHelpers: Auto-saving content packages took 0.031
+[2016.12.03-00.23.06:528][813]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 111 classes and 0 folders.
+[2016.12.03-00.25.41:989][499]BlueprintLog: New page: Compile CompanyScreenBP
+[2016.12.03-00.25.42:138][499]BlueprintEditorCompileResults: Info [6250.74] Compile of CompanyScreenBP successful! [in 147 ms] (/Game/OpeningSequence/CompanyScreenBP.CompanyScreenBP)
+[2016.12.03-00.25.45:648][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OpeningSequence/CompanyScreenBP" FILE="G:/smithKylie_CS393D/ProjectStarWars 4.12/Content/OpeningSequence/CompanyScreenBP.uasset" SILENT=true
+[2016.12.03-00.25.45:662][655]LogSavePackage: Save=6.60ms
+[2016.12.03-00.25.45:662][655]LogSavePackage: Moving 'G:/smithKylie_CS393D/ProjectStarWars 4.12/Saved/CompanyScreenBP2A2BB7D34B2D23C17D5D5FAA93897FF0.tmp' to 'G:/smithKylie_CS393D/ProjectStarWars 4.12/Content/OpeningSequence/CompanyScreenBP.uasset'
+[2016.12.03-00.25.45:663][655]LogSavePackage:Display: Finished SavePackage G:/smithKylie_CS393D/ProjectStarWars 4.12/Content/OpeningSequence/CompanyScreenBP.uasset
+[2016.12.03-00.26.01:628][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OpeningSequence/TitleScreen" FILE="G:/smithKylie_CS393D/ProjectStarWars 4.12/Content/OpeningSequence/TitleScreen.uasset" SILENT=true
+[2016.12.03-00.26.01:745][ 53]LogSavePackage: Save=117.21ms
+[2016.12.03-00.26.01:745][ 53]LogSavePackage: Moving 'G:/smithKylie_CS393D/ProjectStarWars 4.12/Saved/TitleScreen6C95F3EE4C254461FBF38A866F3DA22B.tmp' to 'G:/smithKylie_CS393D/ProjectStarWars 4.12/Content/OpeningSequence/TitleScreen.uasset'
+[2016.12.03-00.26.01:746][ 53]LogSavePackage:Display: Finished SavePackage G:/smithKylie_CS393D/ProjectStarWars 4.12/Content/OpeningSequence/TitleScreen.uasset
+[2016.12.03-00.26.01:748][ 53]Cmd: MAP LOAD FILE="G:/smithKylie_CS393D/ProjectStarWars 4.12/Content/OpeningSequence/CompanyScreenLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.12.03-00.26.01:748][ 53]LightingResults: New page: Lighting Build
+[2016.12.03-00.26.01:749][ 53]LoadErrors: New page: Loading map: CompanyScreenLevel.umap
+[2016.12.03-00.26.01:749][ 53]MapCheck: New page: Map Check
+[2016.12.03-00.26.01:750][ 53]LightingResults: New page: Lighting Build
+[2016.12.03-00.26.01:774][ 53]LogAIModule: Creating AISystem for world CompanyScreenLevel
+[2016.12.03-00.26.01:775][ 53]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.12.03-00.26.01:795][ 53]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.12.03-00.26.01:844][ 53]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 49.39ms to complete.
+[2016.12.03-00.26.01:845][ 53]LogFileHelpers: Loading map 'CompanyScreenLevel' took 0.098
+[2016.12.03-00.26.21:037][456]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0005 seconds. Added 1 classes and 3 folders.
+[2016.12.03-00.27.28:654][797]BlueprintLog: New page: Compile CompanyScreenLevel
+[2016.12.03-00.27.28:754][797]BlueprintEditorCompileResults: Info [6357.35] Compile of PersistentLevel.CompanyScreenLevel successful! [in 99 ms] (/Game/OpeningSequence/CompanyScreenLevel.CompanyScreenLevel:PersistentLevel.CompanyScreenLevel)
+[2016.12.03-00.29.19:822][350]LogTexture:Display: Building textures: CompanyScreen (AutoDXT)
+[2016.12.03-00.29.23:447][487]LogEditorTransaction: Undo Edit Preview Background
+[2016.12.03-00.38.42:333][936]LogSavePackage: Save=97.24ms
+[2016.12.03-00.38.42:333][936]LogSavePackage: Moving 'G:/smithKylie_CS393D/ProjectStarWars 4.12/Saved/CompanyScreenLevel_Auto2A0E363BB4721583A09C35894F2755044.tmp' to 'G:/smithKylie_CS393D/ProjectStarWars 4.12/Saved/Autosaves/Game/OpeningSequence/CompanyScreenLevel_Auto2.umap'
+[2016.12.03-00.38.42:333][936]LogSavePackage:Display: Finished SavePackage G:/smithKylie_CS393D/ProjectStarWars 4.12/Saved/Autosaves/Game/OpeningSequence/CompanyScreenLevel_Auto2.umap
+[2016.12.03-00.38.42:336][936]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/OpeningSequence/CompanyScreenLevel' took 0.125
+[2016.12.03-00.38.42:336][936]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.125
+[2016.12.03-00.38.42:338][936]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/OpeningSequence/CompanyScreenBP] ([1] browsable assets)...
+[2016.12.03-00.38.42:338][936]OBJ SavePackage: Finished generating thumbnails for package [/Game/OpeningSequence/CompanyScreenBP]
+[2016.12.03-00.38.42:348][936]LogSavePackage: Save=8.34ms
+[2016.12.03-00.38.42:348][936]LogSavePackage: Moving 'G:/smithKylie_CS393D/ProjectStarWars 4.12/Saved/CompanyScreenBP_Auto2A654D0B94BD9E1B40324D1A835926DA2.tmp' to 'G:/smithKylie_CS393D/ProjectStarWars 4.12/Saved/Autosaves/Game/OpeningSequence/CompanyScreenBP_Auto2.uasset'
+[2016.12.03-00.38.42:348][936]LogSavePackage:Display: Finished SavePackage G:/smithKylie_CS393D/ProjectStarWars 4.12/Saved/Autosaves/Game/OpeningSequence/CompanyScreenBP_Auto2.uasset
+[2016.12.03-00.38.42:348][936]LogFileHelpers: Auto-saving content packages took 0.011
+[2016.12.03-00.39.27:807][587]BlueprintLog: New page: Compile CompanyScreenBP
+[2016.12.03-00.39.27:942][587]BlueprintEditorCompileResults: Info [7076.49] Compile of CompanyScreenBP successful! [in 134 ms] (/Game/OpeningSequence/CompanyScreenBP.CompanyScreenBP)
+[2016.12.03-00.39.29:375][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OpeningSequence/CompanyScreenBP" FILE="G:/smithKylie_CS393D/ProjectStarWars 4.12/Content/OpeningSequence/CompanyScreenBP.uasset" SILENT=true
+[2016.12.03-00.39.29:384][649]LogSavePackage: Save=8.29ms
+[2016.12.03-00.39.29:384][649]LogSavePackage: Moving 'G:/smithKylie_CS393D/ProjectStarWars 4.12/Saved/CompanyScreenBP0F7FC91E467955B2BBC8C494894E79BA.tmp' to 'G:/smithKylie_CS393D/ProjectStarWars 4.12/Content/OpeningSequence/CompanyScreenBP.uasset'
+[2016.12.03-00.39.29:385][649]LogSavePackage:Display: Finished SavePackage G:/smithKylie_CS393D/ProjectStarWars 4.12/Content/OpeningSequence/CompanyScreenBP.uasset
+[2016.12.03-00.48.46:610][123]LogSavePackage: Save=93.31ms
+[2016.12.03-00.48.46:610][123]LogSavePackage: Moving 'G:/smithKylie_CS393D/ProjectStarWars 4.12/Saved/CompanyScreenLevel_Auto31BE72AB74CAEE98CB5DB1EB1CFD0AD74.tmp' to 'G:/smithKylie_CS393D/ProjectStarWars 4.12/Saved/Autosaves/Game/OpeningSequence/CompanyScreenLevel_Auto3.umap'
+[2016.12.03-00.48.46:610][123]LogSavePackage:Display: Finished SavePackage G:/smithKylie_CS393D/ProjectStarWars 4.12/Saved/Autosaves/Game/OpeningSequence/CompanyScreenLevel_Auto3.umap
+[2016.12.03-00.48.46:611][123]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/OpeningSequence/CompanyScreenLevel' took 0.124
+[2016.12.03-00.48.46:611][123]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.124
+[2016.12.03-00.48.46:614][123]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/OpeningSequence/CompanyScreenBP] ([1] browsable assets)...
+[2016.12.03-00.48.46:614][123]OBJ SavePackage: Finished generating thumbnails for package [/Game/OpeningSequence/CompanyScreenBP]
+[2016.12.03-00.48.46:632][123]LogSavePackage: Save=16.91ms
+[2016.12.03-00.48.46:632][123]LogSavePackage: Moving 'G:/smithKylie_CS393D/ProjectStarWars 4.12/Saved/CompanyScreenBP_Auto37ACA62F34A8ADFA2FB6D2495B98BCC61.tmp' to 'G:/smithKylie_CS393D/ProjectStarWars 4.12/Saved/Autosaves/Game/OpeningSequence/CompanyScreenBP_Auto3.uasset'
+[2016.12.03-00.48.46:632][123]LogSavePackage:Display: Finished SavePackage G:/smithKylie_CS393D/ProjectStarWars 4.12/Saved/Autosaves/Game/OpeningSequence/CompanyScreenBP_Auto3.uasset
+[2016.12.03-00.48.46:632][123]LogFileHelpers: Auto-saving content packages took 0.019
+[2016.12.03-00.50.12:632][515]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2016.12.03-01.19.30:087][682]LogSavePackage: Save=89.61ms
+[2016.12.03-01.19.30:087][682]LogSavePackage: Moving 'G:/smithKylie_CS393D/ProjectStarWars 4.12/Saved/CompanyScreenLevelD6020E154E3DD0DF4C9D58AA28AA42C5.tmp' to 'G:/smithKylie_CS393D/ProjectStarWars 4.12/Content/OpeningSequence/CompanyScreenLevel.umap'
+[2016.12.03-01.19.30:088][682]LogSavePackage:Display: Finished SavePackage G:/smithKylie_CS393D/ProjectStarWars 4.12/Content/OpeningSequence/CompanyScreenLevel.umap
+[2016.12.03-01.19.30:098][682]LogFileHelpers: Saving map 'CompanyScreenLevel' took 0.170
+[2016.12.03-01.19.30:101][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OpeningSequence/CompanyScreenBP" FILE="G:/smithKylie_CS393D/ProjectStarWars 4.12/Content/OpeningSequence/CompanyScreenBP.uasset" SILENT=true
+[2016.12.03-01.19.30:119][682]LogSavePackage: Save=16.61ms
+[2016.12.03-01.19.30:119][682]LogSavePackage: Moving 'G:/smithKylie_CS393D/ProjectStarWars 4.12/Saved/CompanyScreenBPD5FD79C24C6BA924284C2F900F0DF306.tmp' to 'G:/smithKylie_CS393D/ProjectStarWars 4.12/Content/OpeningSequence/CompanyScreenBP.uasset'
+[2016.12.03-01.19.30:120][682]LogSavePackage:Display: Finished SavePackage G:/smithKylie_CS393D/ProjectStarWars 4.12/Content/OpeningSequence/CompanyScreenBP.uasset
+[2016.12.03-01.19.39:144][ 79]Cmd: MAP LOAD FILE="G:/smithKylie_CS393D/ProjectStarWars 4.12/Content/OpeningSequence/CompanyScreenLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.12.03-01.19.39:144][ 79]LightingResults: New page: Lighting Build
+[2016.12.03-01.19.39:145][ 79]LoadErrors: New page: Loading map: CompanyScreenLevel.umap
+[2016.12.03-01.19.39:145][ 79]MapCheck: New page: Map Check
+[2016.12.03-01.19.39:146][ 79]LightingResults: New page: Lighting Build
+[2016.12.03-01.19.39:183][ 79]LogAIModule: Creating AISystem for world CompanyScreenLevel
+[2016.12.03-01.19.39:184][ 79]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.12.03-01.19.39:197][ 79]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.12.03-01.19.39:247][ 79]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 49.873ms to complete.
+[2016.12.03-01.19.39:247][ 79]LogFileHelpers: Loading map 'CompanyScreenLevel' took 0.105
+[2016.12.03-01.19.40:014][140]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/OpeningSequence/CompanyScreenLevel.CompanyScreenLevel:PersistentLevel' has LevelScriptBlueprint '/Game/OpeningSequence/CompanyScreenLevel.CompanyScreenLevel:PersistentLevel.CompanyScreenLevel' with GeneratedClass '/Game/OpeningSequence/CompanyScreenLevel.CompanyScreenLevel_C' with ClassGeneratedBy '/Game/OpeningSequence/CompanyScreenLevel.CompanyScreenLevel:PersistentLevel.CompanyScreenLevel'
+[2016.12.03-01.19.40:014][140]BlueprintLog: New page: Pre-Play auto-recompile
+[2016.12.03-01.19.40:015][140]LogPlayLevel: [PlayLevel] Compiling CompanyScreenBP before play...
+[2016.12.03-01.19.40:099][140]LogPlayLevel: PlayLevel: Blueprint regeneration took 85 ms (2 blueprints)
+[2016.12.03-01.19.40:100][140]LogPlayLevel: [PlayLevel] Compiling CompanyScreenLevel before play...
+[2016.12.03-01.19.40:175][140]LogPlayLevel: PlayLevel: Blueprint regeneration took 161 ms (2 blueprints)
+[2016.12.03-01.19.40:197][140]PIE: New page: PIE session: CompanyScreenLevel (Dec 2, 2016, 9:19:40 AM)
+[2016.12.03-01.19.40:197][140]LogPlayLevel: Creating play world package: /Game/OpeningSequence/UEDPIE_0_CompanyScreenLevel
+[2016.12.03-01.19.40:198][140]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001299s)
+[2016.12.03-01.19.40:199][140]LogAIModule: Creating AISystem for world CompanyScreenLevel
+[2016.12.03-01.19.40:199][140]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2016.12.03-01.19.40:199][140]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/OpeningSequence/CompanyScreenLevel.CompanyScreenLevel to /Game/OpeningSequence/UEDPIE_0_CompanyScreenLevel.CompanyScreenLevel (0.002624s)
+[2016.12.03-01.19.40:221][140]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.03-01.19.40:227][140]LogInit: FAudioDevice initialized.
+[2016.12.03-01.19.40:304][140]LogWorld: Game class is 'ProjectStarWars-GameMode_C'
+[2016.12.03-01.19.40:306][140]LogWorld: Bringing World /Game/OpeningSequence/UEDPIE_0_CompanyScreenLevel.CompanyScreenLevel up for play (max tick rate 0) at 2016.12.02-17.19.40
+[2016.12.03-01.19.40:306][140]LogWorld: Bringing up level for play took: 0.001092
+[2016.12.03-01.19.40:317][140]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2016.12.03-01.19.40:320][140]PIE: Info Play in editor start time for /Game/OpeningSequence/UEDPIE_0_CompanyScreenLevel 1.233
+[2016.12.03-01.19.40:320][140]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/OpeningSequence/CompanyScreenLevel.CompanyScreenLevel:PersistentLevel' has LevelScriptBlueprint '/Game/OpeningSequence/CompanyScreenLevel.CompanyScreenLevel:PersistentLevel.CompanyScreenLevel' with GeneratedClass '/Game/OpeningSequence/CompanyScreenLevel.CompanyScreenLevel_C' with ClassGeneratedBy '/Game/OpeningSequence/CompanyScreenLevel.CompanyScreenLevel:PersistentLevel.CompanyScreenLevel'
+[2016.12.03-01.19.47:001][936]LogNet: Browse: /Game/OpeningSequence/TitleScreenLevel
+[2016.12.03-01.19.47:001][936]LogLoad: LoadMap: /Game/OpeningSequence/TitleScreenLevel
+[2016.12.03-01.19.47:022][936]Cmd: MEM
+[2016.12.03-01.19.47:041][936]LogMemory: Platform Memory Stats for Windows
+[2016.12.03-01.19.47:041][936]LogMemory: Process Physical Memory: 1156.71 MB used, 1164.67 MB peak
+[2016.12.03-01.19.47:041][936]LogMemory: Process Virtual Memory: 1571.23 MB used, 1776.64 MB peak
+[2016.12.03-01.19.47:041][936]LogMemory: Physical Memory: 5186.72 MB used, 12271.22 MB total
+[2016.12.03-01.19.47:041][936]LogMemory: Virtual Memory: 2236.16 MB used, 8388608.00 MB total
+[2016.12.03-01.19.47:041][936]LogMemory: 
+[2016.12.03-01.19.47:041][936]Allocator Stats for TBB: (not implemented)
+[2016.12.03-01.19.47:142][936]LogAIModule: Creating AISystem for world TitleScreenLevel
+[2016.12.03-01.19.47:142][936]LogWorld: Game class is 'GameMode'
+[2016.12.03-01.19.47:144][936]LogWorld: Bringing World /Game/OpeningSequence/UEDPIE_0_TitleScreenLevel.TitleScreenLevel up for play (max tick rate 0) at 2016.12.02-17.19.47
+[2016.12.03-01.19.47:144][936]LogWorld: Bringing up level for play took: 0.001156
+[2016.12.03-01.19.47:145][936]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.12.03-01.19.47:146][936]LogLoad: Took 0.144773 seconds to LoadMap(/Game/OpeningSequence/TitleScreenLevel)
+[2016.12.03-01.19.47:187][940]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/OpeningSequence/CompanyScreenLevel.CompanyScreenLevel:PersistentLevel' has LevelScriptBlueprint '/Game/OpeningSequence/CompanyScreenLevel.CompanyScreenLevel:PersistentLevel.CompanyScreenLevel' with GeneratedClass '/Game/OpeningSequence/CompanyScreenLevel.CompanyScreenLevel_C' with ClassGeneratedBy '/Game/OpeningSequence/CompanyScreenLevel.CompanyScreenLevel:PersistentLevel.CompanyScreenLevel'
+[2016.12.03-01.19.47:223][940]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/OpeningSequence/CompanyScreenLevel.CompanyScreenLevel:PersistentLevel' has LevelScriptBlueprint '/Game/OpeningSequence/CompanyScreenLevel.CompanyScreenLevel:PersistentLevel.CompanyScreenLevel' with GeneratedClass '/Game/OpeningSequence/CompanyScreenLevel.CompanyScreenLevel_C' with ClassGeneratedBy '/Game/OpeningSequence/CompanyScreenLevel.CompanyScreenLevel:PersistentLevel.CompanyScreenLevel'
+[2016.12.03-01.21.49:594][892]Cmd: QUIT_EDITOR
+[2016.12.03-01.21.49:667][892]LogExit: Preparing to exit.
+[2016.12.03-01.21.49:946][892]LogExit: Editor shut down
+[2016.12.03-01.21.49:947][892]LogExit: Transaction tracking system shut down
+[2016.12.03-01.21.50:138][892]LogObj: Freed 0b from 0 cluster array pools.
+[2016.12.03-01.21.50:138][892]LogExit: Object subsystem successfully closed.
+[2016.12.03-01.21.50:152][892]LogD3D11RHI: Shutdown
+[2016.12.03-01.21.50:152][892]LogD3D11RHI: CleanupD3DDevice
+[2016.12.03-01.21.50:206][892]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.12.03-01.21.50:224][892]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (218)
+[2016.12.03-01.21.50:224][892]LogModuleManager: Shutting down and abandoning module TextureEditor (217)
+[2016.12.03-01.21.50:224][892]LogModuleManager: Shutting down and abandoning module WorldBrowser (216)
+[2016.12.03-01.21.50:224][892]LogModuleManager: Shutting down and abandoning module SequencerWidgets (215)
+[2016.12.03-01.21.50:224][892]LogModuleManager: Shutting down and abandoning module BlueprintGraph (214)
+[2016.12.03-01.21.50:224][892]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (213)
+[2016.12.03-01.21.50:224][892]LogModuleManager: Shutting down and abandoning module CrashTracker (212)
+[2016.12.03-01.21.50:224][892]LogModuleManager: Shutting down and abandoning module SceneOutliner (211)
+[2016.12.03-01.21.50:224][892]LogModuleManager: Shutting down and abandoning module WidgetCarousel (210)
+[2016.12.03-01.21.50:225][892]LogModuleManager: Shutting down and abandoning module AddContentDialog (209)
+[2016.12.03-01.21.50:226][892]LogModuleManager: Shutting down and abandoning module GameplayTags (208)
+[2016.12.03-01.21.50:226][892]LogModuleManager: Shutting down and abandoning module EditorWidgets (207)
+[2016.12.03-01.21.50:226][892]LogModuleManager: Shutting down and abandoning module CollectionManager (206)
+[2016.12.03-01.21.50:226][892]LogModuleManager: Shutting down and abandoning module StatsViewer (205)
+[2016.12.03-01.21.50:226][892]LogModuleManager: Shutting down and abandoning module FoliageEdit (204)
+[2016.12.03-01.21.50:226][892]LogModuleManager: Shutting down and abandoning module LandscapeEditor (203)
+[2016.12.03-01.21.50:226][892]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (202)
+[2016.12.03-01.21.50:226][892]LogModuleManager: Shutting down and abandoning module ActorPickerMode (201)
+[2016.12.03-01.21.50:226][892]LogModuleManager: Shutting down and abandoning module GeometryMode (200)
+[2016.12.03-01.21.50:226][892]LogModuleManager: Shutting down and abandoning module TextureAlignMode (199)
+[2016.12.03-01.21.50:226][892]LogModuleManager: Shutting down and abandoning module BspMode (198)
+[2016.12.03-01.21.50:226][892]LogModuleManager: Shutting down and abandoning module HardwareSurvey (197)
+[2016.12.03-01.21.50:226][892]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (196)
+[2016.12.03-01.21.50:226][892]LogModuleManager: Shutting down and abandoning module SequenceRecorder (195)
+[2016.12.03-01.21.50:226][892]LogModuleManager: Shutting down and abandoning module AutomationWorker (194)
+[2016.12.03-01.21.50:226][892]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (193)
+[2016.12.03-01.21.50:227][892]LogModuleManager: Shutting down and abandoning module PlacementMode (192)
+[2016.12.03-01.21.50:227][892]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (191)
+[2016.12.03-01.21.50:227][892]LogModuleManager: Shutting down and abandoning module CharacterAI (190)
+[2016.12.03-01.21.50:227][892]LogModuleManager: Shutting down and abandoning module SmartSnapping (189)
+[2016.12.03-01.21.50:227][892]LogModuleManager: Shutting down and abandoning module SessionServices (188)
+[2016.12.03-01.21.50:227][892]LogModuleManager: Shutting down and abandoning module ViewportSnapping (187)
+[2016.12.03-01.21.50:227][892]LogModuleManager: Shutting down and abandoning module LogVisualizer (186)
+[2016.12.03-01.21.50:227][892]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (185)
+[2016.12.03-01.21.50:227][892]LogModuleManager: Shutting down and abandoning module IntroTutorials (184)
+[2016.12.03-01.21.50:227][892]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (183)
+[2016.12.03-01.21.50:227][892]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (182)
+[2016.12.03-01.21.50:227][892]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (181)
+[2016.12.03-01.21.50:227][892]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (180)
+[2016.12.03-01.21.50:684][892]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (179)
+[2016.12.03-01.21.50:684][892]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (178)
+[2016.12.03-01.21.50:684][892]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (177)
+[2016.12.03-01.21.50:684][892]LogModuleManager: Shutting down and abandoning module MergeActors (176)
+[2016.12.03-01.21.50:684][892]LogModuleManager: Shutting down and abandoning module SizeMap (175)
+[2016.12.03-01.21.50:684][892]LogModuleManager: Shutting down and abandoning module TreeMap (174)
+[2016.12.03-01.21.50:684][892]LogModuleManager: Shutting down and abandoning module ReferenceViewer (173)
+[2016.12.03-01.21.50:684][892]LogModuleManager: Shutting down and abandoning module LocalizationService (172)
+[2016.12.03-01.21.50:685][892]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (171)
+[2016.12.03-01.21.50:685][892]LogModuleManager: Shutting down and abandoning module HardwareTargeting (170)
+[2016.12.03-01.21.50:685][892]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (169)
+[2016.12.03-01.21.50:685][892]LogModuleManager: Shutting down and abandoning module UndoHistory (168)
+[2016.12.03-01.21.50:685][892]LogModuleManager: Shutting down and abandoning module UserFeedback (167)
+[2016.12.03-01.21.50:685][892]LogModuleManager: Shutting down and abandoning module XmlParser (166)
+[2016.12.03-01.21.50:685][892]LogModuleManager: Shutting down and abandoning module Blutility (165)
+[2016.12.03-01.21.50:685][892]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (164)
+[2016.12.03-01.21.50:685][892]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (163)
+[2016.12.03-01.21.50:685][892]LogModuleManager: Shutting down and abandoning module InputBindingEditor (162)
+[2016.12.03-01.21.50:685][892]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (161)
+[2016.12.03-01.21.50:685][892]LogModuleManager: Shutting down and abandoning module SettingsEditor (160)
+[2016.12.03-01.21.50:685][892]LogModuleManager: Shutting down and abandoning module ProjectLauncher (159)
+[2016.12.03-01.21.50:685][892]LogModuleManager: Shutting down and abandoning module SessionFrontend (158)
+[2016.12.03-01.21.50:685][892]LogModuleManager: Shutting down and abandoning module ProfilerClient (157)
+[2016.12.03-01.21.50:685][892]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (156)
+[2016.12.03-01.21.50:685][892]LogModuleManager: Shutting down and abandoning module DeviceManager (155)
+[2016.12.03-01.21.50:736][892]LogModuleManager: Shutting down and abandoning module AutomationController (154)
+[2016.12.03-01.21.50:736][892]LogModuleManager: Shutting down and abandoning module AutomationWindow (153)
+[2016.12.03-01.21.50:736][892]LogModuleManager: Shutting down and abandoning module Layers (152)
+[2016.12.03-01.21.50:736][892]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (151)
+[2016.12.03-01.21.50:736][892]LogModuleManager: Shutting down and abandoning module DetailCustomizations (150)
+[2016.12.03-01.21.50:736][892]LogModuleManager: Shutting down and abandoning module PackagesDialog (149)
+[2016.12.03-01.21.50:736][892]LogModuleManager: Shutting down and abandoning module Persona (148)
+[2016.12.03-01.21.50:736][892]LogModuleManager: Shutting down and abandoning module Kismet (147)
+[2016.12.03-01.21.50:736][892]LogModuleManager: Shutting down and abandoning module GraphEditor (146)
+[2016.12.03-01.21.50:736][892]LogModuleManager: Shutting down and abandoning module ClassViewer (145)
+[2016.12.03-01.21.50:738][892]LogModuleManager: Shutting down and abandoning module Toolbox (144)
+[2016.12.03-01.21.50:738][892]LogModuleManager: Shutting down and abandoning module ModuleUI (143)
+[2016.12.03-01.21.50:738][892]LogModuleManager: Shutting down and abandoning module MovieSceneTools (142)
+[2016.12.03-01.21.50:738][892]LogModuleManager: Shutting down and abandoning module OutputLog (141)
+[2016.12.03-01.21.50:738][892]LogModuleManager: Shutting down and abandoning module GammaUI (140)
+[2016.12.03-01.21.50:738][892]LogModuleManager: Shutting down and abandoning module Documentation (139)
+[2016.12.03-01.21.50:738][892]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (138)
+[2016.12.03-01.21.50:738][892]LogModuleManager: Shutting down and abandoning module AnalyticsET (137)
+[2016.12.03-01.21.50:738][892]LogModuleManager: Shutting down and abandoning module Analytics (136)
+[2016.12.03-01.21.50:738][892]LogModuleManager: Shutting down and abandoning module PortalServices (135)
+[2016.12.03-01.21.50:738][892]LogModuleManager: Shutting down and abandoning module PortalRpc (134)
+[2016.12.03-01.21.50:738][892]LogModuleManager: Shutting down and abandoning module MessagingRpc (133)
+[2016.12.03-01.21.50:738][892]LogModuleManager: Shutting down and abandoning module GameplayDebugger (132)
+[2016.12.03-01.21.50:738][892]LogModuleManager: Shutting down and abandoning module AITestSuite (131)
+[2016.12.03-01.21.50:738][892]LogModuleManager: Shutting down and abandoning module AIModule (130)
+[2016.12.03-01.21.50:738][892]LogModuleManager: Shutting down and abandoning module ProfilerService (129)
+[2016.12.03-01.21.50:903][892]LogModuleManager: Shutting down and abandoning module TaskGraph (128)
+[2016.12.03-01.21.50:903][892]LogModuleManager: Shutting down and abandoning module SlateRemote (127)
+[2016.12.03-01.21.50:904][892]LogModuleManager: Shutting down and abandoning module SteamVRController (126)
+[2016.12.03-01.21.50:904][892]LogModuleManager: Shutting down and abandoning module SteamVR (125)
+[2016.12.03-01.21.50:904][892]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (124)
+[2016.12.03-01.21.50:904][892]LogModuleManager: Shutting down and abandoning module OculusLibrary (123)
+[2016.12.03-01.21.50:904][892]LogModuleManager: Shutting down and abandoning module OculusInput (122)
+[2016.12.03-01.21.50:904][892]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (121)
+[2016.12.03-01.21.50:904][892]LogModuleManager: Shutting down and abandoning module CableComponent (120)
+[2016.12.03-01.21.50:904][892]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (119)
+[2016.12.03-01.21.50:904][892]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (118)
+[2016.12.03-01.21.50:904][892]LogModuleManager: Shutting down and abandoning module HTML5Networking (117)
+[2016.12.03-01.21.50:904][892]LogModuleManager: Shutting down and abandoning module SuperSearch (116)
+[2016.12.03-01.21.50:904][892]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (115)
+[2016.12.03-01.21.50:904][892]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (114)
+[2016.12.03-01.21.50:904][892]LogModuleManager: Shutting down and abandoning module PluginBrowser (113)
+[2016.12.03-01.21.50:904][892]LogModuleManager: Shutting down and abandoning module EpicSurvey (112)
+[2016.12.03-01.21.50:904][892]LogModuleManager: Shutting down and abandoning module DesktopPlatform (111)
+[2016.12.03-01.21.50:904][892]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (110)
+[2016.12.03-01.21.50:904][892]LogModuleManager: Shutting down and abandoning module UObjectPlugin (109)
+[2016.12.03-01.21.50:904][892]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (108)
+[2016.12.03-01.21.50:904][892]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (107)
+[2016.12.03-01.21.50:904][892]LogModuleManager: Shutting down and abandoning module SourceControl (106)
+[2016.12.03-01.21.50:904][892]LogModuleManager: Shutting down and abandoning module GitSourceControl (105)
+[2016.12.03-01.21.50:904][892]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (104)
+[2016.12.03-01.21.50:904][892]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (103)
+[2016.12.03-01.21.50:904][892]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (102)
+[2016.12.03-01.21.50:904][892]LogModuleManager: Shutting down and abandoning module MeshPaint (101)
+[2016.12.03-01.21.50:904][892]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (100)
+[2016.12.03-01.21.50:904][892]LogModuleManager: Shutting down and abandoning module HotReload (99)
+[2016.12.03-01.21.50:905][892]LogModuleManager: Shutting down and abandoning module MainFrame (98)
+[2016.12.03-01.21.50:905][892]LogModuleManager: Shutting down and abandoning module LevelEditor (97)
+[2016.12.03-01.21.50:906][892]LogModuleManager: Shutting down and abandoning module ContentBrowser (96)
+[2016.12.03-01.21.50:907][892]LogModuleManager: Shutting down and abandoning module Paper2DEditor (95)
+[2016.12.03-01.21.50:907][892]LogModuleManager: Shutting down and abandoning module UdpMessaging (94)
+[2016.12.03-01.21.51:007][892]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (93)
+[2016.12.03-01.21.51:007][892]LogModuleManager: Shutting down and abandoning module Paper2D (92)
+[2016.12.03-01.21.51:007][892]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (91)
+[2016.12.03-01.21.51:007][892]LogModuleManager: Shutting down and abandoning module Media (90)
+[2016.12.03-01.21.51:007][892]LogModuleManager: Shutting down and abandoning module WmfMedia (89)
+[2016.12.03-01.21.51:008][892]LogModuleManager: Shutting down and abandoning module MediaAssets (88)
+[2016.12.03-01.21.51:008][892]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (87)
+[2016.12.03-01.21.51:008][892]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (86)
+[2016.12.03-01.21.51:008][892]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (85)
+[2016.12.03-01.21.51:008][892]LogModuleManager: Shutting down and abandoning module VREditor (84)
+[2016.12.03-01.21.51:008][892]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (83)
+[2016.12.03-01.21.51:008][892]LogModuleManager: Shutting down and abandoning module PropertyEditor (82)
+[2016.12.03-01.21.51:008][892]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (81)
+[2016.12.03-01.21.51:008][892]LogModuleManager: Shutting down and abandoning module FunctionalTesting (80)
+[2016.12.03-01.21.51:008][892]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (79)
+[2016.12.03-01.21.51:008][892]LogModuleManager: Shutting down and abandoning module Sequencer (78)
+[2016.12.03-01.21.51:008][892]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (77)
+[2016.12.03-01.21.51:008][892]LogModuleManager: Shutting down and abandoning module MessageLog (76)
+[2016.12.03-01.21.51:008][892]LogModuleManager: Shutting down and abandoning module AssetTools (75)
+[2016.12.03-01.21.51:008][892]LogModuleManager: Shutting down and abandoning module UMGEditor (74)
+[2016.12.03-01.21.51:008][892]LogModuleManager: Shutting down and abandoning module UMG (73)
+[2016.12.03-01.21.51:009][892]LogModuleManager: Shutting down and abandoning module SlateReflector (72)
+[2016.12.03-01.21.51:009][892]LogModuleManager: Shutting down and abandoning module Slate (71)
+[2016.12.03-01.21.51:009][892]LogModuleManager: Shutting down and abandoning module EditorStyle (70)
+[2016.12.03-01.21.51:012][892]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (69)
+[2016.12.03-01.21.51:012][892]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (68)
+[2016.12.03-01.21.51:012][892]LogModuleManager: Shutting down and abandoning module XAudio2 (67)
+[2016.12.03-01.21.51:012][892]LogModuleManager: Shutting down and abandoning module Networking (65)
+[2016.12.03-01.21.51:012][892]LogModuleManager: Shutting down and abandoning module Core (64)
+[2016.12.03-01.21.51:012][892]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (63)
+[2016.12.03-01.21.51:013][892]LogModuleManager: Shutting down and abandoning module AssetRegistry (62)
+[2016.12.03-01.21.51:059][892]LogModuleManager: Shutting down and abandoning module KismetCompiler (61)
+[2016.12.03-01.21.51:059][892]LogModuleManager: Shutting down and abandoning module PhysXFormats (60)
+[2016.12.03-01.21.51:059][892]LogModuleManager: Shutting down and abandoning module MeshUtilities (59)
+[2016.12.03-01.21.51:059][892]LogModuleManager: Shutting down and abandoning module DerivedDataCache (58)
+[2016.12.03-01.21.51:133][892]LogDerivedDataCache: Shutdown
+[2016.12.03-01.21.51:133][892]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (57)
+[2016.12.03-01.21.51:133][892]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (56)
+[2016.12.03-01.21.51:133][892]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (55)
+[2016.12.03-01.21.51:133][892]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (54)
+[2016.12.03-01.21.51:133][892]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (53)
+[2016.12.03-01.21.51:133][892]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (52)
+[2016.12.03-01.21.51:133][892]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (51)
+[2016.12.03-01.21.51:133][892]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (50)
+[2016.12.03-01.21.51:133][892]LogModuleManager: Shutting down and abandoning module ImageWrapper (49)
+[2016.12.03-01.21.51:133][892]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (48)
+[2016.12.03-01.21.51:133][892]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (47)
+[2016.12.03-01.21.51:134][892]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (46)
+[2016.12.03-01.21.51:134][892]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (45)
+[2016.12.03-01.21.51:134][892]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (44)
+[2016.12.03-01.21.51:134][892]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (43)
+[2016.12.03-01.21.51:134][892]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (42)
+[2016.12.03-01.21.51:134][892]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (41)
+[2016.12.03-01.21.51:134][892]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (40)
+[2016.12.03-01.21.51:134][892]LogModuleManager: Shutting down and abandoning module Messaging (39)
+[2016.12.03-01.21.51:134][892]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (38)
+[2016.12.03-01.21.51:134][892]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (37)
+[2016.12.03-01.21.51:134][892]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (36)
+[2016.12.03-01.21.51:134][892]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (35)
+[2016.12.03-01.21.51:134][892]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (34)
+[2016.12.03-01.21.51:134][892]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (33)
+[2016.12.03-01.21.51:134][892]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (32)
+[2016.12.03-01.21.51:134][892]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (31)
+[2016.12.03-01.21.51:134][892]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (30)
+[2016.12.03-01.21.51:134][892]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (29)
+[2016.12.03-01.21.51:134][892]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (28)
+[2016.12.03-01.21.51:134][892]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (27)
+[2016.12.03-01.21.51:134][892]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (26)
+[2016.12.03-01.21.51:134][892]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (25)
+[2016.12.03-01.21.51:134][892]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (24)
+[2016.12.03-01.21.51:134][892]LogModuleManager: Shutting down and abandoning module TargetPlatform (23)
+[2016.12.03-01.21.51:134][892]LogModuleManager: Shutting down and abandoning module InputCore (22)
+[2016.12.03-01.21.51:134][892]LogModuleManager: Shutting down and abandoning module Settings (21)
+[2016.12.03-01.21.51:134][892]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (19)
+[2016.12.03-01.21.51:134][892]LogModuleManager: Shutting down and abandoning module HTTP (18)
+[2016.12.03-01.21.54:136][892]LogModuleManager: Shutting down and abandoning module XMPP (17)
+[2016.12.03-01.21.54:136][892]LogModuleManager: Shutting down and abandoning module OculusRift (16)
+[2016.12.03-01.21.54:136][892]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (15)
+[2016.12.03-01.21.54:136][892]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.12.03-01.21.54:136][892]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.12.03-01.21.54:136][892]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.12.03-01.21.54:136][892]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.12.03-01.21.54:139][892]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.12.03-01.21.54:139][892]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.12.03-01.21.54:139][892]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.12.03-01.21.54:139][892]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.12.03-01.21.54:139][892]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.12.03-01.21.54:139][892]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.12.03-01.21.54:139][892]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.12.03-01.21.54:139][892]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.12.03-01.21.54:139][892]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.12.03-01.21.54:139][892]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.12.03-01.21.54:142][892]LogExit: Exiting.
+[2016.12.03-01.21.54:157][892]Log file closed, 12/02/16 17:21:54
