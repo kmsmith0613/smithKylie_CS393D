@@ -1273,4 +1273,1550 @@ LogInit: Object subsystem initialized
 [2016.12.10-00.10.29:249][483]LogSavePackage: Moving 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Saved/Grass_Patch_StaticMesh342748294F04226CB42EB4ABF821BCFB.tmp' to 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Models/Scenery/Shrubbery/Grass_Patch_StaticMesh.uasset'
 [2016.12.10-00.10.29:250][483]LogSavePackage:Display: Finished SavePackage G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Models/Scenery/Shrubbery/Grass_Patch_StaticMesh.uasset
 [2016.12.10-00.10.29:291][483]LogSavePackage: Save=12.06ms
-[2016.12.10-00.10.29:291][483]LogSavePackage: Moving 'G:/smithKylie_week10/smithKyl
+[2016.12.10-00.10.29:291][483]LogSavePackage: Moving 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Saved/Grass_Blade_StaticMeshEFBC5404499EAC971FCFF9AA30EF6586.tmp' to 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Models/Scenery/Shrubbery/Grass_Blade_StaticMesh.uasset'
+[2016.12.10-00.10.29:292][483]LogSavePackage:Display: Finished SavePackage G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Models/Scenery/Shrubbery/Grass_Blade_StaticMesh.uasset
+[2016.12.10-00.10.29:336][483]LogSavePackage: Save=13.18ms
+[2016.12.10-00.10.29:336][483]LogSavePackage: Moving 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Saved/YodaHut_StaticMesh213EF6CA476774556875379EE63BB592.tmp' to 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Models/Structures/YodaHut_StaticMesh.uasset'
+[2016.12.10-00.10.29:337][483]LogSavePackage:Display: Finished SavePackage G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Models/Structures/YodaHut_StaticMesh.uasset
+[2016.12.10-00.14.32:533][255]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.12.10-00.14.32:550][255]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2016.12.10-00.14.34:580][354]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.12.10-00.14.34:591][354]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2016.12.10-00.14.35:357][411]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.12.10-00.14.35:376][411]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2016.12.10-00.14.35:829][458]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.12.10-00.14.35:840][458]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2016.12.10-00.14.36:720][556]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.12.10-00.14.36:731][556]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2016.12.10-00.14.37:193][605]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.12.10-00.14.37:204][605]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2016.12.10-00.14.38:670][771]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.12.10-00.14.38:681][771]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2016.12.10-00.14.39:201][826]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.12.10-00.14.39:212][826]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2016.12.10-00.14.39:784][886]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.12.10-00.14.39:799][886]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2016.12.10-00.14.40:416][952]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.12.10-00.14.40:430][952]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2016.12.10-00.14.41:019][ 14]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.12.10-00.14.41:030][ 14]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2016.12.10-00.14.43:600][155]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.12.10-00.14.43:616][155]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2016.12.10-00.14.44:524][200]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.12.10-00.14.44:539][200]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2016.12.10-00.14.45:152][227]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.12.10-00.14.45:171][227]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2016.12.10-00.14.45:726][284]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.12.10-00.14.45:738][284]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2016.12.10-00.14.47:547][403]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.12.10-00.14.47:565][403]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2016.12.10-00.14.48:349][445]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.12.10-00.14.48:367][445]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2016.12.10-00.14.48:929][504]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.12.10-00.14.48:943][504]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2016.12.10-00.14.49:519][564]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.12.10-00.14.49:530][564]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2016.12.10-00.14.50:121][601]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.12.10-00.14.50:136][601]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2016.12.10-00.14.50:953][691]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.12.10-00.14.50:964][691]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2016.12.10-00.14.55:741][239]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2016.12.10-00.14.56:278][277]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2016.12.10-00.14.58:716][381]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2016.12.10-00.17.21:412][838]LogTexture:Display: Building textures: WhiteSquareTexture (AutoDXT)
+[2016.12.10-00.17.21:542][838]LogTexture:Display: Building textures: Texture2D_2 (G8)
+[2016.12.10-00.17.21:546][838]LogTexture:Display: Building textures: LandscapeThumbnailWeightmap (BGRA8)
+[2016.12.10-00.17.21:547][838]LogTexture:Display: Building textures: LandscapeThumbnailHeightmap (BGRA8)
+[2016.12.10-00.18.23:277][270]LogTexture:Display: Building textures: CameraActor_64x (BGRA8)
+[2016.12.10-00.18.23:285][270]LogTexture:Display: Building textures: BlueprintInterface_64x (BGRA8)
+[2016.12.10-00.18.23:289][270]LogTexture:Display: Building textures: BlueprintMacroLibrary_64x (BGRA8)
+[2016.12.10-00.18.23:451][270]LogTexture:Display: Building textures: IOS (BGRA8)
+[2016.12.10-00.18.23:458][270]LogTexture:Display: Building textures: android_Icon (BGRA8)
+[2016.12.10-00.18.23:462][270]LogTexture:Display: Building textures: Paper2DFlipbook_TutorialIcon (BGRA8)
+[2016.12.10-00.20.26:269][217]LogSavePackage: Save=1187.45ms
+[2016.12.10-00.20.26:269][217]LogSavePackage: Moving 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Saved/E1M1_Auto9DAE25B5F4ABAAF4251063F9B6F022B8A.tmp' to 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Saved/Autosaves/Game/Levels/E1M1_Auto9.umap'
+[2016.12.10-00.20.26:270][217]LogSavePackage:Display: Finished SavePackage G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Saved/Autosaves/Game/Levels/E1M1_Auto9.umap
+[2016.12.10-00.20.26:273][217]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/E1M1' took 1.220
+[2016.12.10-00.20.26:273][217]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.220
+[2016.12.10-00.27.01:077][768]Cmd: TRANSACTION UNDO
+[2016.12.10-00.27.01:077][768]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2016.12.10-00.27.01:263][768]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.27.01:287][768]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.27.01:310][768]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.27.01:332][768]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.27.17:308][356]Cmd: TRANSACTION UNDO
+[2016.12.10-00.27.17:308][356]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2016.12.10-00.27.17:347][356]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.27.17:366][356]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.27.17:394][356]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.27.17:414][356]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.27.17:442][356]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.27.17:463][356]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.27.17:483][356]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.27.17:503][356]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.27.17:523][356]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.27.17:543][356]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.27.17:563][356]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.27.17:584][356]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.27.28:714][482]Cmd: TRANSACTION UNDO
+[2016.12.10-00.27.28:714][482]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2016.12.10-00.27.28:763][482]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.27.28:783][482]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.27.28:804][482]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.27.28:824][482]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.28.19:534][516]Cmd: TRANSACTION UNDO
+[2016.12.10-00.28.19:534][516]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2016.12.10-00.28.19:577][516]LogTexture:Display: Building textures: Texture2D_5 (BGRA8)
+[2016.12.10-00.28.19:597][516]LogTexture:Display: Building textures: Texture2D_6 (BGRA8)
+[2016.12.10-00.28.19:617][516]LogTexture:Display: Building textures: Texture2D_9 (BGRA8)
+[2016.12.10-00.28.19:636][516]LogTexture:Display: Building textures: Texture2D_10 (BGRA8)
+[2016.12.10-00.28.19:656][516]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.28.19:677][516]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.28.19:697][516]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.28.19:717][516]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.28.53:809][295]Cmd: TRANSACTION UNDO
+[2016.12.10-00.28.53:809][295]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2016.12.10-00.28.53:848][295]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.28.53:868][295]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.28.53:896][295]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.28.53:916][295]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.29.05:733][440]Cmd: TRANSACTION UNDO
+[2016.12.10-00.29.05:733][440]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2016.12.10-00.29.05:773][440]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.29.05:793][440]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.29.05:820][440]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.29.05:841][440]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.29.16:211][456]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2016.12.10-00.29.32:597][261]Cmd: TRANSACTION UNDO
+[2016.12.10-00.29.32:597][261]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2016.12.10-00.29.32:615][261]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.29.32:636][261]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.29.32:656][261]LogTexture:Display: Building textures: Texture2D_9 (BGRA8)
+[2016.12.10-00.29.56:462][769]Cmd: ACTOR SELECT ALL
+[2016.12.10-00.30.12:334][619]LogEditorViewport: Clicking Background
+[2016.12.10-00.30.30:074][830]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2016.12.10-00.33.14:718][281]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.10-00.33.14:719][281]PIE: New page: PIE session: E1M1 (Dec 9, 2016, 8:33:14 AM)
+[2016.12.10-00.33.14:719][281]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_E1M1
+[2016.12.10-00.33.14:897][281]LogPlayLevel: PIE: StaticDuplicateObject took: (0.178090s)
+[2016.12.10-00.33.14:898][281]LogAIModule: Creating AISystem for world E1M1
+[2016.12.10-00.33.14:898][281]LogPlayLevel: PIE: World Init took: (0.001209s)
+[2016.12.10-00.33.14:899][281]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/E1M1.E1M1 to /Game/Levels/UEDPIE_0_E1M1.E1M1 (0.179948s)
+[2016.12.10-00.33.14:914][281]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.10-00.33.14:923][281]LogInit: FAudioDevice initialized.
+[2016.12.10-00.33.15:015][281]LogWorld: Game class is 'GameMode'
+[2016.12.10-00.33.15:159][281]LogWorld: Bringing World /Game/Levels/UEDPIE_0_E1M1.E1M1 up for play (max tick rate 0) at 2016.12.09-16.33.15
+[2016.12.10-00.33.15:162][281]LogWorld: Bringing up level for play took: 0.143495
+[2016.12.10-00.33.15:177][281]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2016.12.10-00.33.15:180][281]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_E1M1 1.048
+[2016.12.10-00.35.44:080][613]LogStaticMesh: Building static mesh OceanWater_StaticMesh...
+[2016.12.10-00.35.44:081][613]LogMeshUtilities:Warning: Invalid vertex normals found for mesh. Forcing recomputation of vertex normals for MikkTSpace. Fix mesh or disable "Use MikkTSpace Tangent Space" to avoid forced recomputation of normals.
+[2016.12.10-00.35.44:082][613]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Scenery/OceanWater_StaticMesh.OceanWater_StaticMesh
+[2016.12.10-00.35.44:085][613]LogActorFactory: Actor Factory created OceanWater_StaticMesh
+[2016.12.10-00.35.44:116][613]EditorErrors: New page: Actor Reattachment
+[2016.12.10-00.37.20:311][196]LogSavePackage: Save=9.94ms
+[2016.12.10-00.37.20:311][196]LogSavePackage: Moving 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Saved/OceanWater_StaticMesh5EE9A96D48BED30B8FBAE3B74192FE61.tmp' to 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Models/Scenery/Water/OceanWater_StaticMesh.uasset'
+[2016.12.10-00.37.20:311][196]LogSavePackage:Display: Finished SavePackage G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Models/Scenery/Water/OceanWater_StaticMesh.uasset
+[2016.12.10-00.38.18:297][292]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.38.18:518][292]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.38.18:528][292]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.38.21:576][371]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-00.38.21:576][371]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-00.38.21:576][371]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-00.39.01:761][146]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.01:772][146]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.01:774][146]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.03:831][227]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-00.39.03:831][227]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-00.39.03:831][227]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-00.39.06:499][369]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.06:511][369]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.06:689][369]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.08:133][420]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-00.39.08:133][420]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-00.39.08:133][420]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-00.39.18:084][ 47]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.18:094][ 47]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.18:119][ 47]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.18:124][ 47]0.010417
+[2016.12.10-00.39.18:198][ 51]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.18:210][ 51]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.18:233][ 51]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.18:237][ 51]0.031250
+[2016.12.10-00.39.18:241][ 51]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.18:260][ 51]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.18:294][ 51]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.18:298][ 51]0.156250
+[2016.12.10-00.39.18:302][ 51]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.18:313][ 51]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.18:342][ 51]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.18:346][ 51]0.378600
+[2016.12.10-00.39.18:350][ 51]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.18:361][ 51]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.18:389][ 51]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.18:393][ 51]0.452256
+[2016.12.10-00.39.18:556][ 59]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.18:568][ 59]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.18:609][ 59]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.18:613][ 59]0.441942
+[2016.12.10-00.39.18:617][ 59]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.18:636][ 59]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.18:662][ 59]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.18:666][ 59]0.430247
+[2016.12.10-00.39.18:839][ 68]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.18:852][ 68]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.18:910][ 68]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.18:915][ 68]0.409575
+[2016.12.10-00.39.18:918][ 68]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.18:929][ 68]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.18:957][ 68]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.18:961][ 68]0.275796
+[2016.12.10-00.39.18:965][ 68]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.18:976][ 68]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.19:026][ 68]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.19:030][ 68]0.245179
+[2016.12.10-00.39.19:035][ 68]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.19:046][ 68]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.19:102][ 68]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.19:106][ 68]0.237537
+[2016.12.10-00.39.19:138][ 68]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.19:150][ 68]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.19:172][ 68]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.19:176][ 68]0.224382
+[2016.12.10-00.39.19:180][ 68]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.19:191][ 68]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.19:222][ 68]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.19:226][ 68]0.228455
+[2016.12.10-00.39.19:299][ 71]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.19:313][ 71]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.19:338][ 71]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.19:342][ 71]0.232924
+[2016.12.10-00.39.19:396][ 73]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.19:408][ 73]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.19:437][ 73]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.19:441][ 73]0.251730
+[2016.12.10-00.39.19:445][ 73]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.19:456][ 73]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.19:484][ 73]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.19:488][ 73]0.261249
+[2016.12.10-00.39.19:963][ 95]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.19:974][ 95]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.20:146][ 95]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.20:151][ 95]0.290175
+[2016.12.10-00.39.20:151][ 95]0.299920
+[2016.12.10-00.39.20:234][100]0.309710
+[2016.12.10-00.39.20:306][104]0.319539
+[2016.12.10-00.39.20:367][105]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.20:379][105]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.20:457][105]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.21:065][128]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.21:077][128]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.21:104][128]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.21:215][133]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.21:227][133]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.21:274][133]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.21:307][133]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.21:318][133]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.21:345][133]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.21:355][133]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.21:366][133]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.21:416][133]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.21:425][133]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.21:437][133]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.21:467][133]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.21:618][140]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.21:629][140]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.21:703][140]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.21:923][146]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.21:935][146]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.21:966][146]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.21:974][146]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.21:986][146]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.22:061][146]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.22:071][146]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.22:082][146]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.22:116][146]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.22:125][146]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.22:137][146]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.22:165][146]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.22:174][146]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.22:187][146]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.22:212][146]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.22:221][146]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.22:232][146]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.22:271][146]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.22:280][146]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.22:292][146]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.22:318][146]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.22:348][147]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.22:360][147]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.22:463][147]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.23:964][210]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.23:975][210]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.24:002][210]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.25:992][302]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-00.39.25:992][302]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-00.39.25:992][302]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-00.39.26:057][305]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.26:069][305]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.26:096][305]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.26:100][305]0.523845
+[2016.12.10-00.39.26:189][309]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.26:202][309]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.26:234][309]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.26:238][309]0.507966
+[2016.12.10-00.39.26:242][309]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.26:253][309]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.26:305][309]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.26:309][309]0.505289
+[2016.12.10-00.39.26:318][309]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.26:330][309]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.26:434][309]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.26:438][309]0.498479
+[2016.12.10-00.39.26:438][309]0.492346
+[2016.12.10-00.39.26:463][310]0.490580
+[2016.12.10-00.39.26:508][312]0.490026
+[2016.12.10-00.39.26:557][315]0.489694
+[2016.12.10-00.39.26:593][317]0.489583
+[2016.12.10-00.39.26:609][318]0.489694
+[2016.12.10-00.39.26:718][325]0.490580
+[2016.12.10-00.39.26:736][326]0.491353
+[2016.12.10-00.39.26:828][332]0.483226
+[2016.12.10-00.39.26:893][336]0.484683
+[2016.12.10-00.39.27:156][350]0.464097
+[2016.12.10-00.39.27:188][352]0.462575
+[2016.12.10-00.39.27:220][354]0.450935
+[2016.12.10-00.39.27:251][356]0.449850
+[2016.12.10-00.39.27:313][360]0.449005
+[2016.12.10-00.39.27:378][364]0.448401
+[2016.12.10-00.39.27:425][367]0.448038
+[2016.12.10-00.39.27:455][369]0.437500
+[2016.12.10-00.39.27:685][378]0.427083
+[2016.12.10-00.39.27:749][382]0.427210
+[2016.12.10-00.39.28:315][415]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.28:326][415]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.28:355][415]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.29:192][447]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.29:205][447]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.29:274][447]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.29:498][455]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.29:515][455]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.29:623][455]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.31:332][522]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-00.39.31:332][522]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-00.39.31:332][522]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-00.39.31:429][527]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.31:440][527]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.31:507][527]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.33:348][612]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-00.39.33:348][612]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-00.39.33:348][612]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-00.39.34:373][672]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.34:384][672]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.34:419][672]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.34:612][676]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.34:624][676]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.34:693][676]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.34:703][676]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.34:715][676]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.34:740][676]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.34:749][676]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.34:761][676]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.34:796][676]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.34:805][676]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.34:816][676]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.34:846][676]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.34:855][676]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.34:867][676]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.34:893][676]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.34:902][676]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.34:915][676]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.34:970][676]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.34:978][676]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.34:990][676]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.35:038][676]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.35:051][676]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.35:063][676]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.35:091][676]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.35:100][676]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.35:112][676]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.35:136][676]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.35:146][676]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.35:158][676]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.35:203][676]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.35:212][676]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.35:223][676]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.35:256][676]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.35:266][676]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.35:279][676]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.35:307][676]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.35:316][676]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.35:327][676]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.35:385][676]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.35:417][677]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.35:431][677]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.35:464][677]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.36:420][712]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.36:432][712]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.36:463][712]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.36:561][716]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.36:573][716]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.36:615][716]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.36:656][716]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.36:681][716]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.36:759][716]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.36:884][717]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.36:896][717]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.36:919][717]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.36:981][719]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.39.37:032][719]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.39.37:059][719]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.39.39:329][834]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-00.39.39:329][834]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-00.39.39:329][834]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-00.40.01:189][127]LogMaterialEditor: Saving and Compiling material OceanWater
+[2016.12.10-00.40.01:769][127]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.40.01:794][127]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.40.01:828][127]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.40.01:862][127]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.40.01:885][127]LogMaterial: 0.01 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.40.05:054][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Scenery/Water/OceanWater" FILE="G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Models/Scenery/Water/OceanWater.uasset" SILENT=true
+[2016.12.10-00.40.05:069][127]LogSavePackage: Save=14.43ms
+[2016.12.10-00.40.05:069][127]LogSavePackage: Moving 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Saved/OceanWaterEB607D4F4A8987231C9D3CBE90C9986E.tmp' to 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Models/Scenery/Water/OceanWater.uasset'
+[2016.12.10-00.40.05:070][127]LogSavePackage:Display: Finished SavePackage G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Models/Scenery/Water/OceanWater.uasset
+[2016.12.10-00.40.05:076][127]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2016.12.10-00.40.05:076][127]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-00.40.05:076][127]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.12.10-00.40.27:156][792]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.40.27:167][792]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.40.27:198][792]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.40.27:202][792]0.698228
+[2016.12.10-00.40.27:301][798]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.40.27:312][798]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.40.27:336][798]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.40.27:340][798]0.698616
+[2016.12.10-00.40.27:344][798]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.40.27:355][798]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.40.27:377][798]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.40.27:381][798]0.710246
+[2016.12.10-00.40.27:385][798]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.40.27:396][798]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.40.27:438][798]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.40.27:442][798]0.720635
+[2016.12.10-00.40.27:479][798]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.40.27:490][798]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.40.27:512][798]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.40.27:517][798]0.731024
+[2016.12.10-00.40.27:520][798]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.40.27:532][798]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.40.27:593][798]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.40.27:597][798]0.752600
+[2016.12.10-00.40.27:601][798]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.40.27:612][798]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.40.27:635][798]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.40.27:639][798]0.775325
+[2016.12.10-00.40.27:643][798]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.40.27:655][798]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.40.27:711][798]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.40.27:715][798]0.796041
+[2016.12.10-00.40.27:719][798]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.40.27:731][798]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.40.27:758][798]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.40.27:779][798]0.807544
+[2016.12.10-00.40.27:782][798]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.40.27:795][798]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.40.27:874][798]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.40.27:878][798]0.817891
+[2016.12.10-00.40.27:899][798]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.40.27:944][798]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.40.27:972][798]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.40.27:978][798]0.839818
+[2016.12.10-00.40.27:982][798]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.40.27:994][798]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.40.28:045][798]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.40.28:050][798]0.860495
+[2016.12.10-00.40.28:283][802]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.40.28:295][802]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.40.28:321][802]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.40.28:325][802]0.881179
+[2016.12.10-00.40.28:325][802]0.936921
+[2016.12.10-00.40.28:343][803]0.947230
+[2016.12.10-00.40.28:362][804]0.957540
+[2016.12.10-00.40.29:369][850]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.40.29:382][850]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.40.29:455][850]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.40.30:332][892]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.40.30:343][892]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.40.30:393][892]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.40.30:427][893]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.40.30:439][893]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.40.30:465][893]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.40.30:876][904]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.40.30:888][904]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.40.30:916][904]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.40.30:924][904]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.40.30:935][904]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.40.31:036][904]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.40.31:503][922]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.40.31:548][922]LogMaterial: 0.03 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.40.31:580][922]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.40.31:588][922]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.40.31:599][922]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.40.31:626][922]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.40.33:526][  5]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-00.40.33:526][  5]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-00.40.33:526][  5]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-00.40.34:211][ 39]LogMaterialEditor: Saving and Compiling material OceanWater
+[2016.12.10-00.40.34:792][ 39]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.40.34:818][ 39]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.40.34:844][ 39]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.40.34:872][ 39]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.40.34:895][ 39]LogMaterial: 0.01 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.40.37:840][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Scenery/Water/OceanWater" FILE="G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Models/Scenery/Water/OceanWater.uasset" SILENT=true
+[2016.12.10-00.40.37:862][ 39]LogSavePackage: Save=14.91ms
+[2016.12.10-00.40.37:862][ 39]LogSavePackage: Moving 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Saved/OceanWater42E1164A4F24FD643A6071A891943968.tmp' to 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Models/Scenery/Water/OceanWater.uasset'
+[2016.12.10-00.40.37:863][ 39]LogSavePackage:Display: Finished SavePackage G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Models/Scenery/Water/OceanWater.uasset
+[2016.12.10-00.40.37:869][ 39]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2016.12.10-00.40.37:869][ 39]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-00.40.37:869][ 39]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.12.10-00.40.48:532][626]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.40.48:543][626]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.40.48:586][626]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.40.48:619][627]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.40.48:631][627]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.40.48:659][627]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.40.48:671][627]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.40.48:695][627]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.40.48:778][627]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.40.50:133][676]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.40.50:150][676]LogMaterial: 0.01 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.40.50:177][676]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.40.51:585][754]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.40.51:596][754]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.40.51:655][754]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.40.51:659][754]0.896378
+[2016.12.10-00.40.51:702][756]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.40.51:714][756]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.40.51:765][756]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.40.51:769][756]0.885417
+[2016.12.10-00.40.51:773][756]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.40.51:785][756]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.40.51:808][756]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.40.51:812][756]0.886397
+[2016.12.10-00.40.51:816][756]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.40.51:828][756]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.40.51:919][756]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.40.51:923][756]0.887620
+[2016.12.10-00.40.51:923][756]0.888414
+[2016.12.10-00.40.52:242][771]0.890366
+[2016.12.10-00.40.52:276][773]0.911086
+[2016.12.10-00.40.52:292][774]0.921448
+[2016.12.10-00.40.52:308][775]0.931811
+[2016.12.10-00.40.52:341][777]0.943269
+[2016.12.10-00.40.52:361][778]0.944476
+[2016.12.10-00.40.52:394][780]0.957540
+[2016.12.10-00.40.52:410][781]0.969366
+[2016.12.10-00.40.52:428][782]0.970988
+[2016.12.10-00.40.52:446][783]0.972718
+[2016.12.10-00.40.52:685][797]0.974557
+[2016.12.10-00.40.52:701][798]0.976503
+[2016.12.10-00.40.53:091][820]0.988761
+[2016.12.10-00.40.53:617][851]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.40.53:634][851]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.40.53:661][851]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.40.55:389][927]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-00.40.55:389][927]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-00.40.55:389][927]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-00.40.57:220][ 36]LogMaterialEditor: Saving and Compiling material OceanWater
+[2016.12.10-00.40.57:802][ 36]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.40.57:828][ 36]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.40.57:854][ 36]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.40.57:882][ 36]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.40.57:906][ 36]LogMaterial: 0.01 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.41.00:949][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Scenery/Water/OceanWater" FILE="G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Models/Scenery/Water/OceanWater.uasset" SILENT=true
+[2016.12.10-00.41.00:966][ 36]LogSavePackage: Save=16.04ms
+[2016.12.10-00.41.00:966][ 36]LogSavePackage: Moving 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Saved/OceanWaterE76F4E614AB042F9E03CBD8DDEDB727B.tmp' to 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Models/Scenery/Water/OceanWater.uasset'
+[2016.12.10-00.41.00:967][ 36]LogSavePackage:Display: Finished SavePackage G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Models/Scenery/Water/OceanWater.uasset
+[2016.12.10-00.41.00:973][ 36]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2016.12.10-00.41.00:973][ 36]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-00.41.00:973][ 36]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.12.10-00.41.05:550][295]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.41.05:561][295]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.41.05:588][295]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.41.05:732][301]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.41.05:743][301]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.41.05:836][301]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.41.06:693][338]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.41.06:705][338]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.41.06:787][338]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.41.08:320][407]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-00.41.08:320][407]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-00.41.08:320][407]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-00.41.10:284][502]LogMaterialEditor: Saving and Compiling material OceanWater
+[2016.12.10-00.41.10:865][502]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.41.10:890][502]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.41.10:916][502]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.41.10:944][502]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.41.10:967][502]LogMaterial: 0.01 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.41.13:904][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Scenery/Water/OceanWater" FILE="G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Models/Scenery/Water/OceanWater.uasset" SILENT=true
+[2016.12.10-00.41.13:921][502]LogSavePackage: Save=15.64ms
+[2016.12.10-00.41.13:921][502]LogSavePackage: Moving 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Saved/OceanWater1BE9D6E14EB47ED09BBF7AA6B81C8EEA.tmp' to 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Models/Scenery/Water/OceanWater.uasset'
+[2016.12.10-00.41.13:922][502]LogSavePackage:Display: Finished SavePackage G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Models/Scenery/Water/OceanWater.uasset
+[2016.12.10-00.41.13:927][502]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2016.12.10-00.41.13:927][502]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-00.41.13:927][502]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.12.10-00.41.43:440][246]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.41.43:451][246]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.41.45:502][335]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-00.41.45:502][335]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-00.41.45:502][335]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-00.41.57:480][  2]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.41.57:491][  2]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.41.57:493][  2]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2016.12.10-00.41.59:062][ 58]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-00.41.59:062][ 58]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-00.41.59:062][ 58]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-00.42.00:815][161]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.42.00:825][161]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.42.00:853][161]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2016.12.10-00.42.00:857][161]0.023292
+[2016.12.10-00.42.00:979][165]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.42.01:068][165]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.42.01:094][165]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2016.12.10-00.42.01:099][165]0.031250
+[2016.12.10-00.42.01:099][165]0.461401
+[2016.12.10-00.42.01:116][166]0.498805
+[2016.12.10-00.42.01:165][169]0.507966
+[2016.12.10-00.42.01:215][172]0.522082
+[2016.12.10-00.42.01:234][173]0.531250
+[2016.12.10-00.42.01:271][175]0.550410
+[2016.12.10-00.42.01:288][176]0.559502
+[2016.12.10-00.42.01:304][177]0.564618
+[2016.12.10-00.42.01:321][178]0.584170
+[2016.12.10-00.42.01:346][179]0.618368
+[2016.12.10-00.42.01:362][180]0.624044
+[2016.12.10-00.42.01:377][181]0.635758
+[2016.12.10-00.42.01:394][182]0.670885
+[2016.12.10-00.42.01:411][183]0.697994
+[2016.12.10-00.42.01:427][184]0.712610
+[2016.12.10-00.42.01:456][185]0.740243
+[2016.12.10-00.42.01:474][186]0.753608
+[2016.12.10-00.42.01:493][187]0.768295
+[2016.12.10-00.42.01:509][188]0.789814
+[2016.12.10-00.42.01:526][189]0.804515
+[2016.12.10-00.42.01:544][190]0.840851
+[2016.12.10-00.42.01:564][191]0.870275
+[2016.12.10-00.42.01:592][192]0.884988
+[2016.12.10-00.42.01:592][192]0.900545
+[2016.12.10-00.42.01:609][193]0.907447
+[2016.12.10-00.42.01:642][195]0.922154
+[2016.12.10-00.42.01:675][197]0.929946
+[2016.12.10-00.42.01:701][198]0.944649
+[2016.12.10-00.42.01:727][199]0.959352
+[2016.12.10-00.42.01:745][200]0.981878
+[2016.12.10-00.42.01:762][201]0.996576
+[2016.12.10-00.42.01:779][202]1.012348
+[2016.12.10-00.42.01:797][203]1.019131
+[2016.12.10-00.42.01:822][204]1.034979
+[2016.12.10-00.42.01:848][205]1.065661
+[2016.12.10-00.42.01:865][206]1.073725
+[2016.12.10-00.42.01:881][207]1.081830
+[2016.12.10-00.42.01:917][209]1.089974
+[2016.12.10-00.42.01:951][211]1.098156
+[2016.12.10-00.42.01:969][212]1.106376
+[2016.12.10-00.42.02:020][215]1.114632
+[2016.12.10-00.42.02:047][216]1.122924
+[2016.12.10-00.42.02:064][217]1.131252
+[2016.12.10-00.42.02:114][220]1.139614
+[2016.12.10-00.42.02:326][227]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.42.02:338][227]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.42.02:375][227]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2016.12.10-00.42.03:082][249]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.42.03:094][249]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.42.03:132][249]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2016.12.10-00.42.03:241][253]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.42.03:257][253]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.42.03:325][253]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2016.12.10-00.42.04:134][281]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.42.04:147][281]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.42.04:209][281]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2016.12.10-00.42.04:219][281]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.42.04:231][281]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.42.04:297][281]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2016.12.10-00.42.04:318][281]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.42.04:330][281]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.42.04:454][281]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2016.12.10-00.42.05:370][321]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.42.05:382][321]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.42.05:411][321]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2016.12.10-00.42.07:148][390]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-00.42.07:148][390]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-00.42.07:148][390]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-00.42.17:912][ 19]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.42.17:924][ 19]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.42.17:998][ 19]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2016.12.10-00.42.19:555][ 80]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-00.42.19:555][ 80]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-00.42.19:555][ 80]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-00.43.15:488][189]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.43.15:499][189]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.43.15:500][189]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2016.12.10-00.43.17:477][261]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-00.43.17:477][261]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-00.43.17:477][261]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-00.43.20:136][394]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.43.20:147][394]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.43.21:734][449]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-00.43.21:734][449]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-00.43.21:734][449]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-00.44.30:314][128]LogTexture:Display: Building textures: Texture2D_5 (BGRA8)
+[2016.12.10-00.44.30:331][128]LogTexture:Display: Building textures: Texture2D_6 (BGRA8)
+[2016.12.10-00.44.30:347][128]LogTexture:Display: Building textures: Texture2D_9 (BGRA8)
+[2016.12.10-00.44.31:546][128]LogSavePackage: Save=1278.34ms
+[2016.12.10-00.44.31:546][128]LogSavePackage: Moving 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Saved/E1M1_Auto04443E7374F01DC1526DABA8C600DE99D.tmp' to 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Saved/Autosaves/Game/Levels/E1M1_Auto0.umap'
+[2016.12.10-00.44.31:547][128]LogSavePackage:Display: Finished SavePackage G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Saved/Autosaves/Game/Levels/E1M1_Auto0.umap
+[2016.12.10-00.44.31:548][128]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/E1M1' took 1.305
+[2016.12.10-00.44.31:548][128]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.305
+[2016.12.10-00.44.31:552][128]LogSavePackage: Save=0.72ms
+[2016.12.10-00.44.31:552][128]LogSavePackage: Moving 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Saved/OceanWater_StaticMesh_Auto0BB148BD8466E12F8B83ABCAE03FA68DD.tmp' to 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Saved/Autosaves/Game/Models/Scenery/OceanWater_StaticMesh_Auto0.uasset'
+[2016.12.10-00.44.31:553][128]LogSavePackage:Display: Finished SavePackage G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Saved/Autosaves/Game/Models/Scenery/OceanWater_StaticMesh_Auto0.uasset
+[2016.12.10-00.44.31:553][128]LogFileHelpers: Auto-saving content packages took 0.002
+[2016.12.10-00.46.05:240][501]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.46.05:251][501]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.46.05:710][525]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.46.05:722][525]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.46.07:527][589]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-00.46.07:527][589]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-00.46.07:527][589]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-00.46.09:031][689]1.012133
+[2016.12.10-00.46.09:036][689]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.46.09:047][689]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.46.09:070][689]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.46.10:160][736]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.46.10:173][736]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.46.10:203][736]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.46.10:207][736]0.950432
+[2016.12.10-00.46.10:394][742]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.46.10:405][742]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.46.10:436][742]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.46.10:440][742]0.960708
+[2016.12.10-00.46.10:522][745]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.46.10:534][745]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.46.10:609][745]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.46.10:613][745]0.959069
+[2016.12.10-00.46.10:617][745]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.46.10:629][745]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.46.10:660][745]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.46.10:664][745]0.957540
+[2016.12.10-00.46.10:718][747]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.46.10:729][747]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.46.10:794][747]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.46.10:798][747]0.956123
+[2016.12.10-00.46.10:802][747]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.46.10:813][747]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.46.10:852][747]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.46.10:857][747]1.012133
+[2016.12.10-00.46.10:861][747]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.46.10:873][747]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.46.10:941][747]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.46.10:945][747]1.015558
+[2016.12.10-00.46.10:950][747]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.46.10:962][747]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.46.11:040][747]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.46.11:044][747]1.031671
+[2016.12.10-00.46.11:048][747]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.46.11:059][747]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.46.11:088][747]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.46.11:091][747]1.061120
+[2016.12.10-00.46.11:097][747]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.46.11:109][747]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.46.11:134][747]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.46.11:138][747]1.071247
+[2016.12.10-00.46.11:395][759]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.46.11:408][759]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.46.11:445][759]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.46.11:449][759]1.068864
+[2016.12.10-00.46.11:453][759]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.46.11:464][759]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.46.11:577][759]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.46.11:581][759]1.066577
+[2016.12.10-00.46.11:581][759]1.064388
+[2016.12.10-00.46.11:611][761]1.062296
+[2016.12.10-00.46.11:667][762]1.060302
+[2016.12.10-00.46.11:719][764]1.070537
+[2016.12.10-00.46.11:971][775]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.46.11:983][775]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.46.12:008][775]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.46.13:993][877]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-00.46.13:993][877]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-00.46.13:993][877]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-00.46.16:001][  8]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.46.16:012][  8]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.46.16:037][  8]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.46.16:041][  8]0.987772
+[2016.12.10-00.46.16:268][ 16]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.46.16:288][ 16]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.46.16:341][ 16]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.46.17:472][ 80]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.46.17:484][ 80]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.46.17:545][ 80]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.46.17:550][ 80]0.975225
+[2016.12.10-00.46.17:654][ 84]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.46.17:666][ 84]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.46.17:698][ 84]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.46.19:783][193]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-00.46.19:783][193]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-00.46.19:783][193]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-00.46.23:704][427]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.46.23:715][427]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.46.23:762][427]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.46.23:973][430]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.46.23:984][430]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.46.24:109][430]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.46.24:876][463]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.46.24:888][463]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.46.25:020][463]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.46.26:436][518]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-00.46.26:436][518]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-00.46.26:436][518]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-00.46.28:555][650]LogMaterialEditor: Saving and Compiling material OceanWater
+[2016.12.10-00.46.29:136][650]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.46.29:161][650]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.46.29:191][650]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.46.29:232][650]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.46.29:273][650]LogMaterial: 0.02 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.46.32:239][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Scenery/Water/OceanWater" FILE="G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Models/Scenery/Water/OceanWater.uasset" SILENT=true
+[2016.12.10-00.46.32:257][650]LogSavePackage: Save=15.79ms
+[2016.12.10-00.46.32:257][650]LogSavePackage: Moving 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Saved/OceanWater223D06B54DB631ACE950898119805A07.tmp' to 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Models/Scenery/Water/OceanWater.uasset'
+[2016.12.10-00.46.32:257][650]LogSavePackage:Display: Finished SavePackage G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Models/Scenery/Water/OceanWater.uasset
+[2016.12.10-00.46.32:263][650]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2016.12.10-00.46.32:263][650]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-00.46.32:263][650]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.12.10-00.46.49:750][800]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.46.49:761][800]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.46.49:857][800]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.46.51:314][846]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-00.46.51:314][846]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-00.46.51:314][846]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-00.46.51:676][865]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.46.51:687][865]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.46.51:717][865]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.12.10-00.46.53:727][963]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-00.46.53:727][963]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-00.46.53:727][963]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-00.46.56:508][141]LogMaterialEditor: Saving and Compiling material OceanWater
+[2016.12.10-00.46.57:083][141]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.46.57:108][141]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.46.57:135][141]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.46.57:163][141]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-00.46.57:194][141]LogMaterial: 0.01 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-00.47.00:120][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Scenery/Water/OceanWater" FILE="G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Models/Scenery/Water/OceanWater.uasset" SILENT=true
+[2016.12.10-00.47.00:137][141]LogSavePackage: Save=15.62ms
+[2016.12.10-00.47.00:137][141]LogSavePackage: Moving 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Saved/OceanWaterFF382CDC48EEC07EB528AC853A7CCF92.tmp' to 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Models/Scenery/Water/OceanWater.uasset'
+[2016.12.10-00.47.00:138][141]LogSavePackage:Display: Finished SavePackage G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Models/Scenery/Water/OceanWater.uasset
+[2016.12.10-00.47.00:144][141]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2016.12.10-00.47.00:144][141]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-00.47.00:144][141]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.12.10-00.47.14:233][ 62]0.014731
+[2016.12.10-00.47.14:280][ 66]0.032940
+[2016.12.10-00.47.14:306][ 68]0.042949
+[2016.12.10-00.47.14:320][ 69]0.053115
+[2016.12.10-00.47.14:355][ 72]0.062500
+[2016.12.10-00.47.14:391][ 75]0.072917
+[2016.12.10-00.47.14:535][ 88]0.073657
+[2016.12.10-00.47.14:536][ 88]0.085898
+[2016.12.10-00.47.14:670][100]0.098821
+[2016.12.10-00.47.14:975][128]0.102592
+[2016.12.10-00.47.17:325][341]0.102592
+[2016.12.10-00.47.17:416][349]0.096037
+[2016.12.10-00.47.17:452][352]0.085898
+[2016.12.10-00.47.17:576][363]0.083982
+[2016.12.10-00.47.18:349][433]0.085898
+[2016.12.10-00.47.18:384][436]0.089000
+[2016.12.10-00.47.18:398][437]0.093170
+[2016.12.10-00.47.18:433][440]0.098271
+[2016.12.10-00.47.18:468][443]0.104167
+[2016.12.10-00.47.18:493][445]0.110731
+[2016.12.10-00.47.18:560][451]0.117851
+[2016.12.10-00.47.19:306][519]0.110731
+[2016.12.10-00.47.19:969][579]0.088388
+[2016.12.10-00.47.20:003][582]0.081357
+[2016.12.10-00.50.11:163][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/E1M1" FILE="G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Levels/E1M1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.12.10-00.50.12:368][944]LogSavePackage: Save=1181.44ms
+[2016.12.10-00.50.12:368][944]LogSavePackage: Moving 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Saved/E1M1A84B59D246619140821E2DB92B3DFDC6.tmp' to 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Levels/E1M1.umap'
+[2016.12.10-00.50.12:370][944]LogSavePackage:Display: Finished SavePackage G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Levels/E1M1.umap
+[2016.12.10-00.59.06:034][976]LogSavePackage: Save=0.84ms
+[2016.12.10-00.59.06:034][976]LogSavePackage: Moving 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Saved/OceanWater_StaticMeshAD29213E4C2CB67DD08FA982DB66A9BF.tmp' to 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Models/Scenery/OceanWater_StaticMesh.uasset'
+[2016.12.10-00.59.06:034][976]LogSavePackage:Display: Finished SavePackage G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Models/Scenery/OceanWater_StaticMesh.uasset
+[2016.12.10-01.00.24:159][951]Cmd: TRANSACTION UNDO
+[2016.12.10-01.00.24:160][951]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2016.12.10-01.00.24:170][951]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.00.24:191][951]LogTexture:Display: Building textures: Texture2D_10 (BGRA8)
+[2016.12.10-01.00.24:218][951]PIE:Warning: Warning AttachTo: '/Game/Levels/E1M1.E1M1:PersistentLevel.LandscapeGizmoActiveActor_0.GizmoRendererComponent0' is not static , cannot attach '/Game/Levels/E1M1.E1M1:PersistentLevel.LandscapeGizmoActiveActor_0.RootComponent0' which is static to it. Aborting.
+[2016.12.10-01.00.24:228][951]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-01.00.24:239][951]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.00.26:159][ 18]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-01.00.26:159][ 18]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-01.00.26:159][ 18]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-01.00.29:562][337]Cmd: TRANSACTION UNDO
+[2016.12.10-01.00.29:562][337]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2016.12.10-01.00.29:572][337]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.00.29:593][337]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.00.29:613][337]LogTexture:Display: Building textures: Texture2D_9 (BGRA8)
+[2016.12.10-01.00.29:640][337]PIE:Warning: Warning AttachTo: '/Game/Levels/E1M1.E1M1:PersistentLevel.LandscapeGizmoActiveActor_0.GizmoRendererComponent0' is not static , cannot attach '/Game/Levels/E1M1.E1M1:PersistentLevel.LandscapeGizmoActiveActor_0.RootComponent0' which is static to it. Aborting.
+[2016.12.10-01.00.29:644][337]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-01.00.29:654][337]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.00.31:270][398]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-01.00.31:270][398]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-01.00.31:270][398]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-01.01.03:550][904]Cmd: TRANSACTION UNDO
+[2016.12.10-01.01.03:550][904]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2016.12.10-01.01.03:561][904]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.01.03:581][904]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.01.03:735][904]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-01.01.03:746][904]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.01.05:869][975]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-01.01.05:869][975]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-01.01.05:869][975]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-01.01.11:383][443]Cmd: TRANSACTION UNDO
+[2016.12.10-01.01.11:383][443]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2016.12.10-01.01.11:393][443]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.01.11:414][443]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.01.11:434][443]LogTexture:Display: Building textures: Texture2D_9 (BGRA8)
+[2016.12.10-01.01.11:451][443]PIE:Warning: Warning AttachTo: '/Game/Levels/E1M1.E1M1:PersistentLevel.LandscapeGizmoActiveActor_0.GizmoRendererComponent0' is not static , cannot attach '/Game/Levels/E1M1.E1M1:PersistentLevel.LandscapeGizmoActiveActor_0.RootComponent0' which is static to it. Aborting.
+[2016.12.10-01.01.11:455][443]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-01.01.11:467][443]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.01.13:171][507]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-01.01.13:171][507]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-01.01.13:171][507]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-01.01.59:142][524]Cmd: TRANSACTION UNDO
+[2016.12.10-01.01.59:142][524]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2016.12.10-01.01.59:160][524]LogTexture:Display: Building textures: Texture2D_9 (BGRA8)
+[2016.12.10-01.01.59:179][524]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.01.59:199][524]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.01.59:223][524]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.01.59:244][524]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.01.59:252][524]PIE:Warning: Warning AttachTo: '/Game/Levels/E1M1.E1M1:PersistentLevel.LandscapeGizmoActiveActor_0.GizmoRendererComponent0' is not static , cannot attach '/Game/Levels/E1M1.E1M1:PersistentLevel.LandscapeGizmoActiveActor_0.RootComponent0' which is static to it. Aborting.
+[2016.12.10-01.01.59:267][524]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-01.01.59:278][524]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.02.01:139][583]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-01.02.01:139][583]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-01.02.01:139][583]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-01.02.03:812][818]Cmd: TRANSACTION UNDO
+[2016.12.10-01.02.03:812][818]LogEditorTransaction: Undo Edit Brush Size
+[2016.12.10-01.02.03:822][818]PIE:Warning: Warning AttachTo: '/Game/Levels/E1M1.E1M1:PersistentLevel.LandscapeGizmoActiveActor_0.GizmoRendererComponent0' is not static , cannot attach '/Game/Levels/E1M1.E1M1:PersistentLevel.LandscapeGizmoActiveActor_0.RootComponent0' which is static to it. Aborting.
+[2016.12.10-01.02.03:825][818]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-01.02.03:837][818]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.02.05:261][871]Cmd: TRANSACTION UNDO
+[2016.12.10-01.02.05:261][871]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2016.12.10-01.02.05:331][871]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.02.05:351][871]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.02.05:372][871]LogTexture:Display: Building textures: Texture2D_9 (BGRA8)
+[2016.12.10-01.02.05:400][871]PIE:Warning: Warning AttachTo: '/Game/Levels/E1M1.E1M1:PersistentLevel.LandscapeGizmoActiveActor_0.GizmoRendererComponent0' is not static , cannot attach '/Game/Levels/E1M1.E1M1:PersistentLevel.LandscapeGizmoActiveActor_0.RootComponent0' which is static to it. Aborting.
+[2016.12.10-01.02.05:403][871]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-01.02.05:415][871]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.02.06:147][895]Cmd: TRANSACTION UNDO
+[2016.12.10-01.02.06:147][895]LogEditorTransaction: Undo Edit Use Clay Brush
+[2016.12.10-01.02.06:169][895]PIE:Warning: Warning AttachTo: '/Game/Levels/E1M1.E1M1:PersistentLevel.LandscapeGizmoActiveActor_0.GizmoRendererComponent0' is not static , cannot attach '/Game/Levels/E1M1.E1M1:PersistentLevel.LandscapeGizmoActiveActor_0.RootComponent0' which is static to it. Aborting.
+[2016.12.10-01.02.06:203][895]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-01.02.06:214][895]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.02.07:202][922]Cmd: TRANSACTION UNDO
+[2016.12.10-01.02.07:202][922]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2016.12.10-01.02.07:239][922]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.02.07:260][922]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.02.07:282][922]LogTexture:Display: Building textures: Texture2D_9 (BGRA8)
+[2016.12.10-01.02.07:306][922]PIE:Warning: Warning AttachTo: '/Game/Levels/E1M1.E1M1:PersistentLevel.LandscapeGizmoActiveActor_0.GizmoRendererComponent0' is not static , cannot attach '/Game/Levels/E1M1.E1M1:PersistentLevel.LandscapeGizmoActiveActor_0.RootComponent0' which is static to it. Aborting.
+[2016.12.10-01.02.07:310][922]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-01.02.07:321][922]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.02.07:973][945]Cmd: TRANSACTION UNDO
+[2016.12.10-01.02.07:973][945]LogEditorTransaction: Undo Edit Use Clay Brush
+[2016.12.10-01.02.07:994][945]PIE:Warning: Warning AttachTo: '/Game/Levels/E1M1.E1M1:PersistentLevel.LandscapeGizmoActiveActor_0.GizmoRendererComponent0' is not static , cannot attach '/Game/Levels/E1M1.E1M1:PersistentLevel.LandscapeGizmoActiveActor_0.RootComponent0' which is static to it. Aborting.
+[2016.12.10-01.02.07:998][945]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-01.02.08:010][945]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.02.08:726][973]Cmd: TRANSACTION UNDO
+[2016.12.10-01.02.08:726][973]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2016.12.10-01.02.08:752][973]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.02.08:774][973]LogTexture:Display: Building textures: Texture2D_9 (BGRA8)
+[2016.12.10-01.02.08:806][973]PIE:Warning: Warning AttachTo: '/Game/Levels/E1M1.E1M1:PersistentLevel.LandscapeGizmoActiveActor_0.GizmoRendererComponent0' is not static , cannot attach '/Game/Levels/E1M1.E1M1:PersistentLevel.LandscapeGizmoActiveActor_0.RootComponent0' which is static to it. Aborting.
+[2016.12.10-01.02.08:813][973]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-01.02.08:829][973]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.02.10:527][ 27]Cmd: TRANSACTION UNDO
+[2016.12.10-01.02.10:527][ 27]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2016.12.10-01.02.10:555][ 27]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.02.10:587][ 27]PIE:Warning: Warning AttachTo: '/Game/Levels/E1M1.E1M1:PersistentLevel.LandscapeGizmoActiveActor_0.GizmoRendererComponent0' is not static , cannot attach '/Game/Levels/E1M1.E1M1:PersistentLevel.LandscapeGizmoActiveActor_0.RootComponent0' which is static to it. Aborting.
+[2016.12.10-01.02.10:591][ 27]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-01.02.10:601][ 27]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.02.12:017][ 69]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-01.02.12:017][ 69]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-01.02.12:017][ 69]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-01.02.13:602][139]Cmd: TRANSACTION UNDO
+[2016.12.10-01.02.13:602][139]LogEditorTransaction: Undo Edit Tool Strength
+[2016.12.10-01.02.13:611][139]PIE:Warning: Warning AttachTo: '/Game/Levels/E1M1.E1M1:PersistentLevel.LandscapeGizmoActiveActor_0.GizmoRendererComponent0' is not static , cannot attach '/Game/Levels/E1M1.E1M1:PersistentLevel.LandscapeGizmoActiveActor_0.RootComponent0' which is static to it. Aborting.
+[2016.12.10-01.02.13:614][139]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-01.02.13:625][139]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.02.14:481][183]Cmd: TRANSACTION UNDO
+[2016.12.10-01.02.14:481][183]LogEditorTransaction: Undo Clicking on Actors
+[2016.12.10-01.02.14:639][183]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-01.02.14:650][183]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.02.15:287][205]Cmd: TRANSACTION UNDO
+[2016.12.10-01.02.15:287][205]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2016.12.10-01.02.15:311][205]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.02.15:485][205]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-01.02.15:496][205]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.02.17:367][270]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-01.02.17:367][270]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-01.02.17:367][270]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-01.02.24:883][999]Cmd: TRANSACTION UNDO
+[2016.12.10-01.02.24:883][999]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2016.12.10-01.02.24:898][999]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.02.24:918][999]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.02.24:939][999]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.02.24:959][999]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.02.25:102][999]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-01.02.25:113][999]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.02.26:811][ 59]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-01.02.26:811][ 59]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-01.02.26:811][ 59]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-01.02.33:154][704]Cmd: TRANSACTION UNDO
+[2016.12.10-01.02.33:154][704]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2016.12.10-01.02.33:165][704]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.02.33:186][704]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.02.33:354][704]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-01.02.33:366][704]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.02.34:828][744]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-01.02.34:828][744]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-01.02.34:828][744]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-01.03.01:836][663]Cmd: TRANSACTION UNDO
+[2016.12.10-01.03.01:836][663]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2016.12.10-01.03.01:869][663]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.03.01:889][663]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.03.01:909][663]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.03.01:941][663]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.03.01:962][663]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.03.01:986][663]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.03.02:007][663]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.03.02:152][663]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-01.03.02:163][663]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.03.04:120][726]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-01.03.04:120][726]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-01.03.04:120][726]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-01.03.48:587][733]Cmd: TRANSACTION UNDO
+[2016.12.10-01.03.48:587][733]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2016.12.10-01.03.48:619][733]LogTexture:Display: Building textures: Texture2D_5 (BGRA8)
+[2016.12.10-01.03.48:639][733]LogTexture:Display: Building textures: Texture2D_9 (BGRA8)
+[2016.12.10-01.03.48:658][733]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.03.48:678][733]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.03.48:703][733]LogTexture:Display: Building textures: Texture2D_10 (BGRA8)
+[2016.12.10-01.03.48:722][733]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.03.48:742][733]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.03.48:762][733]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.03.48:782][733]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.03.48:925][733]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-01.03.48:936][733]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.03.51:175][814]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-01.03.51:175][814]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-01.03.51:175][814]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-01.07.55:195][352]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2016.12.10-01.07.59:244][745]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.12.10-01.08.01:875][995]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.12.10-01.08.02:803][ 85]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.12.10-01.08.04:239][197]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.10-01.08.04:240][197]PIE: New page: PIE session: E1M1 (Dec 9, 2016, 9:08:04 AM)
+[2016.12.10-01.08.04:240][197]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_E1M1
+[2016.12.10-01.08.04:418][197]LogPlayLevel: PIE: StaticDuplicateObject took: (0.178455s)
+[2016.12.10-01.08.04:419][197]LogAIModule: Creating AISystem for world E1M1
+[2016.12.10-01.08.04:419][197]LogPlayLevel: PIE: World Init took: (0.001248s)
+[2016.12.10-01.08.04:420][197]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/E1M1.E1M1 to /Game/Levels/UEDPIE_0_E1M1.E1M1 (0.180141s)
+[2016.12.10-01.08.04:436][197]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.10-01.08.04:445][197]LogInit: FAudioDevice initialized.
+[2016.12.10-01.08.04:514][197]LogWorld: Game class is 'GameMode'
+[2016.12.10-01.08.04:654][197]LogWorld: Bringing World /Game/Levels/UEDPIE_0_E1M1.E1M1 up for play (max tick rate 0) at 2016.12.09-17.08.04
+[2016.12.10-01.08.04:657][197]LogWorld: Bringing up level for play took: 0.142086
+[2016.12.10-01.08.04:660][197]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_E1M1 0.406
+[2016.12.10-01.12.55:563][962]Cmd: TRANSACTION UNDO
+[2016.12.10-01.12.55:563][962]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2016.12.10-01.12.55:612][962]LogTexture:Display: Building textures: Texture2D_6 (BGRA8)
+[2016.12.10-01.12.55:631][962]LogTexture:Display: Building textures: Texture2D_10 (BGRA8)
+[2016.12.10-01.12.55:650][962]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.12.55:670][962]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.12.55:689][962]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.12.55:708][962]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.12.55:727][962]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.12.55:746][962]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.12.55:765][962]LogTexture:Display: Building textures: Texture2D_5 (BGRA8)
+[2016.12.10-01.12.55:783][962]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.12.55:803][962]LogTexture:Display: Building textures: Texture2D_9 (BGRA8)
+[2016.12.10-01.12.55:822][962]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.12.55:841][962]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.12.55:860][962]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.12.55:878][962]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.12.55:897][962]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.12.55:917][962]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.12.55:936][962]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.12.55:955][962]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.12.55:975][962]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.12.55:993][962]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.12.56:013][962]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.12.56:033][962]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.12.56:052][962]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.12.56:075][962]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-01.12.56:086][962]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.12.57:958][ 24]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-01.12.57:958][ 24]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-01.12.57:958][ 24]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-01.14.37:157][ 53]Cmd: TRANSACTION UNDO
+[2016.12.10-01.14.37:157][ 53]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2016.12.10-01.14.37:169][ 53]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.14.37:189][ 53]LogTexture:Display: Building textures: Texture2D_10 (BGRA8)
+[2016.12.10-01.14.37:217][ 53]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-01.14.37:228][ 53]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.14.38:889][105]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-01.14.38:889][105]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-01.14.38:889][105]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-01.14.51:227][427]Cmd: TRANSACTION UNDO
+[2016.12.10-01.14.51:227][427]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2016.12.10-01.14.51:240][427]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.14.51:261][427]LogTexture:Display: Building textures: Texture2D_10 (BGRA8)
+[2016.12.10-01.14.51:288][427]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-01.14.51:299][427]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.14.52:784][482]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-01.14.52:784][482]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-01.14.52:784][482]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-01.15.05:579][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/E1M1" FILE="G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Levels/E1M1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.12.10-01.15.05:645][764]LogTexture:Display: Building textures: Texture2D_5 (BGRA8)
+[2016.12.10-01.15.05:661][764]LogTexture:Display: Building textures: Texture2D_6 (BGRA8)
+[2016.12.10-01.15.05:677][764]LogTexture:Display: Building textures: Texture2D_9 (BGRA8)
+[2016.12.10-01.15.06:872][764]LogSavePackage: Save=1270.69ms
+[2016.12.10-01.15.06:872][764]LogSavePackage: Moving 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Saved/E1M177004D854229B366576C8CA30A271AF1.tmp' to 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Levels/E1M1.umap'
+[2016.12.10-01.15.06:874][764]LogSavePackage:Display: Finished SavePackage G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Levels/E1M1.umap
+[2016.12.10-01.15.22:123][378]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.10-01.15.22:123][378]PIE: New page: PIE session: E1M1 (Dec 9, 2016, 9:15:22 AM)
+[2016.12.10-01.15.22:123][378]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_E1M1
+[2016.12.10-01.15.22:301][378]LogPlayLevel: PIE: StaticDuplicateObject took: (0.177495s)
+[2016.12.10-01.15.22:302][378]LogAIModule: Creating AISystem for world E1M1
+[2016.12.10-01.15.22:302][378]LogPlayLevel: PIE: World Init took: (0.001220s)
+[2016.12.10-01.15.22:303][378]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/E1M1.E1M1 to /Game/Levels/UEDPIE_0_E1M1.E1M1 (0.179408s)
+[2016.12.10-01.15.22:325][378]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.10-01.15.22:333][378]LogInit: FAudioDevice initialized.
+[2016.12.10-01.15.22:402][378]LogWorld: Game class is 'GameMode'
+[2016.12.10-01.15.22:543][378]LogWorld: Bringing World /Game/Levels/UEDPIE_0_E1M1.E1M1 up for play (max tick rate 0) at 2016.12.09-17.15.22
+[2016.12.10-01.15.22:546][378]LogWorld: Bringing up level for play took: 0.142102
+[2016.12.10-01.15.22:549][378]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_E1M1 0.297
+[2016.12.10-01.17.03:953][629]Cmd: TRANSACTION UNDO
+[2016.12.10-01.17.03:953][629]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2016.12.10-01.17.03:982][629]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.17.04:003][629]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.17.04:023][629]LogTexture:Display: Building textures: Texture2D_10 (BGRA8)
+[2016.12.10-01.17.04:043][629]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.17.04:063][629]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.17.04:084][629]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.17.04:107][629]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-01.17.04:118][629]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.17.06:354][710]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-01.17.06:354][710]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-01.17.06:354][710]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-01.17.12:968][422]Cmd: TRANSACTION UNDO
+[2016.12.10-01.17.12:968][422]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2016.12.10-01.17.12:996][422]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.17.13:016][422]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.17.13:040][422]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.17.13:060][422]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.17.13:081][422]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.17.13:101][422]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.17.13:125][422]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-01.17.13:136][422]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.17.14:846][483]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-01.17.14:846][483]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-01.17.14:846][483]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-01.18.12:367][995]Cmd: TRANSACTION UNDO
+[2016.12.10-01.18.12:367][995]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2016.12.10-01.18.12:390][995]LogTexture:Display: Building textures: Texture2D_6 (BGRA8)
+[2016.12.10-01.18.12:412][995]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.18.12:432][995]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.18.12:452][995]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.18.12:472][995]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.18.12:492][995]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.18.12:515][995]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-01.18.12:525][995]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.18.14:632][ 76]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-01.18.14:632][ 76]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-01.18.14:632][ 76]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-01.18.57:127][ 24]Cmd: TRANSACTION UNDO
+[2016.12.10-01.18.57:128][ 24]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2016.12.10-01.18.57:151][ 24]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.18.57:175][ 24]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.18.57:196][ 24]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.18.57:219][ 24]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.18.57:240][ 24]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.18.57:261][ 24]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.18.57:281][ 24]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.18.57:302][ 24]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.18.57:322][ 24]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.18.57:345][ 24]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-01.18.57:356][ 24]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.18.59:448][ 99]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-01.18.59:448][ 99]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-01.18.59:448][ 99]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-01.19.53:509][119]Cmd: TRANSACTION UNDO
+[2016.12.10-01.19.53:509][119]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2016.12.10-01.19.53:523][119]LogTexture:Display: Building textures: Texture2D_10 (BGRA8)
+[2016.12.10-01.19.53:542][119]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.19.53:562][119]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.19.53:581][119]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.19.53:601][119]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.19.53:623][119]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-01.19.53:634][119]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-01.19.55:816][203]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-01.19.55:816][203]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-01.19.55:816][203]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-01.21.08:202][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/E1M1" FILE="G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Levels/E1M1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.12.10-01.21.08:271][824]LogTexture:Display: Building textures: Texture2D_5 (BGRA8)
+[2016.12.10-01.21.08:286][824]LogTexture:Display: Building textures: Texture2D_6 (BGRA8)
+[2016.12.10-01.21.08:302][824]LogTexture:Display: Building textures: Texture2D_9 (BGRA8)
+[2016.12.10-01.21.08:318][824]LogTexture:Display: Building textures: Texture2D_10 (BGRA8)
+[2016.12.10-01.21.09:494][824]LogSavePackage: Save=1267.56ms
+[2016.12.10-01.21.09:494][824]LogSavePackage: Moving 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Saved/E1M1B6FC7157410AE284466D83A20F5A8DC7.tmp' to 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Levels/E1M1.umap'
+[2016.12.10-01.21.09:496][824]LogSavePackage:Display: Finished SavePackage G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Levels/E1M1.umap
+[2016.12.10-02.56.18:250][353]Cmd: TRANSACTION UNDO
+[2016.12.10-02.56.18:250][353]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2016.12.10-02.56.18:262][353]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-02.56.18:283][353]LogTexture:Display: Building textures: Texture2D_6 (BGRA8)
+[2016.12.10-02.56.18:305][353]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-02.56.18:316][353]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-02.56.20:145][409]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-02.56.20:145][409]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-02.56.20:145][409]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-02.56.27:519][139]Cmd: TRANSACTION UNDO
+[2016.12.10-02.56.27:520][139]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2016.12.10-02.56.27:538][139]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-02.56.27:565][139]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-02.56.27:575][139]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-02.56.28:892][166]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-02.56.28:892][166]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-02.56.28:892][166]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-02.57.43:076][919]Cmd: TRANSACTION UNDO
+[2016.12.10-02.57.43:076][919]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2016.12.10-02.57.43:099][919]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-02.57.43:120][919]LogTexture:Display: Building textures: Texture2D_6 (BGRA8)
+[2016.12.10-02.57.43:138][919]LogTexture:Display: Building textures: Texture2D_10 (BGRA8)
+[2016.12.10-02.57.43:158][919]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-02.57.43:178][919]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-02.57.43:197][919]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-02.57.43:220][919]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-02.57.43:231][919]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-02.57.44:260][947]Cmd: TRANSACTION UNDO
+[2016.12.10-02.57.44:260][947]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2016.12.10-02.57.44:308][947]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-02.57.44:396][947]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-02.57.44:417][947]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-02.57.44:437][947]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-02.57.44:477][947]LogMaterial: 0.02 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-02.57.44:479][947]LogTexture:Display: Building textures: Texture2D_6 (BGRA8)
+[2016.12.10-02.57.44:501][947]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-02.57.44:528][947]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-02.57.44:566][947]LogMaterial: 0.02 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-02.57.44:570][947]LogTexture:Display: Building textures: Texture2D_10 (BGRA8)
+[2016.12.10-02.57.44:590][947]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-02.57.44:618][947]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-02.57.44:640][947]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-02.57.44:667][947]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-02.57.44:680][947]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-02.57.46:374][  1]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-02.57.46:374][  1]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-02.57.46:374][  1]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-02.57.53:017][583]Cmd: TRANSACTION UNDO
+[2016.12.10-02.57.53:017][583]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2016.12.10-02.57.53:045][583]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-02.57.53:065][583]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-02.57.53:089][583]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-02.57.53:109][583]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-02.57.53:132][583]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-02.57.53:152][583]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-02.57.53:172][583]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-02.57.53:191][583]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-02.57.53:211][583]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-02.57.53:230][583]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-02.57.53:250][583]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-02.57.53:273][583]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-02.57.53:284][583]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-02.57.54:819][632]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.10-02.57.54:819][632]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.10-02.57.54:819][632]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.10-03.00.30:541][771]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.10-03.00.30:541][771]PIE: New page: PIE session: E1M1 (Dec 9, 2016, 11:00:30 AM)
+[2016.12.10-03.00.30:541][771]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_E1M1
+[2016.12.10-03.00.30:726][771]LogPlayLevel: PIE: StaticDuplicateObject took: (0.184328s)
+[2016.12.10-03.00.30:727][771]LogAIModule: Creating AISystem for world E1M1
+[2016.12.10-03.00.30:727][771]LogPlayLevel: PIE: World Init took: (0.001332s)
+[2016.12.10-03.00.30:728][771]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/E1M1.E1M1 to /Game/Levels/UEDPIE_0_E1M1.E1M1 (0.186456s)
+[2016.12.10-03.00.30:743][771]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.10-03.00.30:750][771]LogInit: FAudioDevice initialized.
+[2016.12.10-03.00.30:815][771]LogWorld: Game class is 'GameMode'
+[2016.12.10-03.00.30:958][771]LogWorld: Bringing World /Game/Levels/UEDPIE_0_E1M1.E1M1 up for play (max tick rate 0) at 2016.12.09-19.00.30
+[2016.12.10-03.00.30:961][771]LogWorld: Bringing up level for play took: 0.144751
+[2016.12.10-03.00.30:965][771]PIE: Info Play in editor start time for /Game/Levels/UEDPIE_0_E1M1 0.494
+[2016.12.10-03.03.37:689][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/E1M1" FILE="G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Levels/E1M1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.12.10-03.03.37:756][804]LogTexture:Display: Building textures: Texture2D_1 (BGRA8)
+[2016.12.10-03.03.37:772][804]LogTexture:Display: Building textures: Texture2D_5 (BGRA8)
+[2016.12.10-03.03.37:788][804]LogTexture:Display: Building textures: Texture2D_6 (BGRA8)
+[2016.12.10-03.03.37:804][804]LogTexture:Display: Building textures: Texture2D_9 (BGRA8)
+[2016.12.10-03.03.37:821][804]LogTexture:Display: Building textures: Texture2D_10 (BGRA8)
+[2016.12.10-03.03.39:036][804]LogSavePackage: Save=1323.19ms
+[2016.12.10-03.03.39:036][804]LogSavePackage: Moving 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Saved/E1M1F6202F124CC2D46D279DEF837F83D403.tmp' to 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Levels/E1M1.umap'
+[2016.12.10-03.03.39:039][804]LogSavePackage:Display: Finished SavePackage G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Levels/E1M1.umap
+[2016.12.10-03.13.37:982][664]LogTexture:Display: Building textures: Texture2D_5 (BGRA8)
+[2016.12.10-03.13.38:003][664]LogTexture:Display: Building textures: Texture2D_9 (BGRA8)
+[2016.12.10-03.13.38:023][664]LogTexture:Display: Building textures: Texture2D_10 (BGRA8)
+[2016.12.10-03.13.39:382][664]LogSavePackage: Save=1443.69ms
+[2016.12.10-03.13.39:382][664]LogSavePackage: Moving 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Saved/E1M1_Auto1000660E342264C37F4838C893E75616C.tmp' to 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Saved/Autosaves/Game/Levels/E1M1_Auto1.umap'
+[2016.12.10-03.13.39:384][664]LogSavePackage:Display: Finished SavePackage G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Saved/Autosaves/Game/Levels/E1M1_Auto1.umap
+[2016.12.10-03.13.39:386][664]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/E1M1' took 1.480
+[2016.12.10-03.13.39:386][664]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.480
+[2016.12.10-03.30.54:645][731]LogTexture:Display: Building textures: Texture2D_5 (BGRA8)
+[2016.12.10-03.30.54:673][731]LogTexture:Display: Building textures: Texture2D_9 (BGRA8)
+[2016.12.10-03.30.55:997][731]LogSavePackage: Save=1398.18ms
+[2016.12.10-03.30.55:997][731]LogSavePackage: Moving 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Saved/E1M1_Auto2E589863B4EC4309CEABCBBBEE0CF09C1.tmp' to 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Saved/Autosaves/Game/Levels/E1M1_Auto2.umap'
+[2016.12.10-03.30.56:000][731]LogSavePackage:Display: Finished SavePackage G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Saved/Autosaves/Game/Levels/E1M1_Auto2.umap
+[2016.12.10-03.30.56:001][731]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/E1M1' took 1.433
+[2016.12.10-03.30.56:001][731]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.433
+[2016.12.10-03.33.56:811][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/E1M1" FILE="G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Levels/E1M1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.12.10-03.33.58:088][561]LogSavePackage: Save=1263.49ms
+[2016.12.10-03.33.58:088][561]LogSavePackage: Moving 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Saved/E1M1A4402AFB45C1521F9E81F4A93B6FD75D.tmp' to 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Levels/E1M1.umap'
+[2016.12.10-03.33.58:091][561]LogSavePackage:Display: Finished SavePackage G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Levels/E1M1.umap
+[2016.12.10-03.33.58:103][561]LogFileHelpers: Saving map 'E1M1' took 1.375
+[2016.12.10-03.34.07:956][209]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-03.34.07:981][209]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-03.34.08:005][209]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-03.34.08:035][209]LogMaterial: Missing cached shader map for material OceanWater, compiling. 
+[2016.12.10-03.34.08:059][209]LogMaterial: 0.01 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.10-03.34.12:444][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Scenery/Water/OceanWater" FILE="G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Models/Scenery/Water/OceanWater.uasset" SILENT=true
+[2016.12.10-03.34.12:463][209]LogSavePackage: Save=16.85ms
+[2016.12.10-03.34.12:463][209]LogSavePackage: Moving 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Saved/OceanWaterB25D5F4A454968AE31ECADA3F443A100.tmp' to 'G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Models/Scenery/Water/OceanWater.uasset'
+[2016.12.10-03.34.12:464][209]LogSavePackage:Display: Finished SavePackage G:/smithKylie_week10/smithKylie_CS393D/ProjectStarWars 4.12 - 2 4.12/Content/Models/Scenery/Water/OceanWater.uasset
+[2016.12.10-03.34.12:784][210]Cmd: QUIT_EDITOR
+[2016.12.10-03.34.12:886][210]LogExit: Preparing to exit.
+[2016.12.10-03.34.13:444][210]LogExit: Editor shut down
+[2016.12.10-03.34.13:445][210]LogExit: Transaction tracking system shut down
+[2016.12.10-03.34.13:735][210]LogObj: Freed 0b from 0 cluster array pools.
+[2016.12.10-03.34.13:736][210]LogExit: Object subsystem successfully closed.
+[2016.12.10-03.34.13:773][210]LogD3D11RHI: Shutdown
+[2016.12.10-03.34.13:773][210]LogD3D11RHI: CleanupD3DDevice
+[2016.12.10-03.34.13:924][210]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.12.10-03.34.13:977][210]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (217)
+[2016.12.10-03.34.13:977][210]LogModuleManager: Shutting down and abandoning module MaterialEditor (216)
+[2016.12.10-03.34.13:977][210]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (215)
+[2016.12.10-03.34.13:977][210]LogModuleManager: Shutting down and abandoning module DestructibleMeshEditor (214)
+[2016.12.10-03.34.13:978][210]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (213)
+[2016.12.10-03.34.13:978][210]LogModuleManager: Shutting down and abandoning module CrashTracker (212)
+[2016.12.10-03.34.13:978][210]LogModuleManager: Shutting down and abandoning module SceneOutliner (211)
+[2016.12.10-03.34.13:978][210]LogModuleManager: Shutting down and abandoning module WidgetCarousel (210)
+[2016.12.10-03.34.13:978][210]LogModuleManager: Shutting down and abandoning module AddContentDialog (209)
+[2016.12.10-03.34.13:982][210]LogModuleManager: Shutting down and abandoning module GameplayTags (208)
+[2016.12.10-03.34.13:982][210]LogModuleManager: Shutting down and abandoning module EditorWidgets (207)
+[2016.12.10-03.34.13:982][210]LogModuleManager: Shutting down and abandoning module CollectionManager (206)
+[2016.12.10-03.34.13:983][210]LogModuleManager: Shutting down and abandoning module StatsViewer (205)
+[2016.12.10-03.34.13:985][210]LogModuleManager: Shutting down and abandoning module FoliageEdit (204)
+[2016.12.10-03.34.13:985][210]LogModuleManager: Shutting down and abandoning module LandscapeEditor (203)
+[2016.12.10-03.34.13:987][210]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (202)
+[2016.12.10-03.34.13:987][210]LogModuleManager: Shutting down and abandoning module ActorPickerMode (201)
+[2016.12.10-03.34.13:987][210]LogModuleManager: Shutting down and abandoning module GeometryMode (200)
+[2016.12.10-03.34.13:987][210]LogModuleManager: Shutting down and abandoning module TextureAlignMode (199)
+[2016.12.10-03.34.13:987][210]LogModuleManager: Shutting down and abandoning module BspMode (198)
+[2016.12.10-03.34.13:987][210]LogModuleManager: Shutting down and abandoning module HardwareSurvey (197)
+[2016.12.10-03.34.13:987][210]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (196)
+[2016.12.10-03.34.13:987][210]LogModuleManager: Shutting down and abandoning module SequenceRecorder (195)
+[2016.12.10-03.34.13:988][210]LogModuleManager: Shutting down and abandoning module AutomationWorker (194)
+[2016.12.10-03.34.13:988][210]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (193)
+[2016.12.10-03.34.13:988][210]LogModuleManager: Shutting down and abandoning module PlacementMode (192)
+[2016.12.10-03.34.13:989][210]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (191)
+[2016.12.10-03.34.13:992][210]LogModuleManager: Shutting down and abandoning module CharacterAI (190)
+[2016.12.10-03.34.13:992][210]LogModuleManager: Shutting down and abandoning module SmartSnapping (189)
+[2016.12.10-03.34.13:992][210]LogModuleManager: Shutting down and abandoning module SessionServices (188)
+[2016.12.10-03.34.13:992][210]LogModuleManager: Shutting down and abandoning module ViewportSnapping (187)
+[2016.12.10-03.34.13:992][210]LogModuleManager: Shutting down and abandoning module LogVisualizer (186)
+[2016.12.10-03.34.13:993][210]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (185)
+[2016.12.10-03.34.13:995][210]LogModuleManager: Shutting down and abandoning module IntroTutorials (184)
+[2016.12.10-03.34.13:995][210]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (183)
+[2016.12.10-03.34.13:995][210]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (182)
+[2016.12.10-03.34.13:996][210]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (181)
+[2016.12.10-03.34.13:996][210]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (180)
+[2016.12.10-03.34.14:623][210]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (179)
+[2016.12.10-03.34.14:625][210]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (178)
+[2016.12.10-03.34.14:625][210]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (177)
+[2016.12.10-03.34.14:625][210]LogModuleManager: Shutting down and abandoning module MergeActors (176)
+[2016.12.10-03.34.14:626][210]LogModuleManager: Shutting down and abandoning module SizeMap (175)
+[2016.12.10-03.34.14:626][210]LogModuleManager: Shutting down and abandoning module TreeMap (174)
+[2016.12.10-03.34.14:627][210]LogModuleManager: Shutting down and abandoning module ReferenceViewer (173)
+[2016.12.10-03.34.14:627][210]LogModuleManager: Shutting down and abandoning module LocalizationService (172)
+[2016.12.10-03.34.14:628][210]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (171)
+[2016.12.10-03.34.14:629][210]LogModuleManager: Shutting down and abandoning module HardwareTargeting (170)
+[2016.12.10-03.34.14:629][210]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (169)
+[2016.12.10-03.34.14:630][210]LogModuleManager: Shutting down and abandoning module UndoHistory (168)
+[2016.12.10-03.34.14:630][210]LogModuleManager: Shutting down and abandoning module UserFeedback (167)
+[2016.12.10-03.34.14:630][210]LogModuleManager: Shutting down and abandoning module XmlParser (166)
+[2016.12.10-03.34.14:631][210]LogModuleManager: Shutting down and abandoning module Blutility (165)
+[2016.12.10-03.34.14:631][210]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (164)
+[2016.12.10-03.34.14:632][210]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (163)
+[2016.12.10-03.34.14:632][210]LogModuleManager: Shutting down and abandoning module InputBindingEditor (162)
+[2016.12.10-03.34.14:633][210]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (161)
+[2016.12.10-03.34.14:633][210]LogModuleManager: Shutting down and abandoning module SettingsEditor (160)
+[2016.12.10-03.34.14:634][210]LogModuleManager: Shutting down and abandoning module ProjectLauncher (159)
+[2016.12.10-03.34.14:635][210]LogModuleManager: Shutting down and abandoning module SessionFrontend (158)
+[2016.12.10-03.34.14:637][210]LogModuleManager: Shutting down and abandoning module ProfilerClient (157)
+[2016.12.10-03.34.14:638][210]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (156)
+[2016.12.10-03.34.14:638][210]LogModuleManager: Shutting down and abandoning module DeviceManager (155)
+[2016.12.10-03.34.14:689][210]LogModuleManager: Shutting down and abandoning module AutomationController (154)
+[2016.12.10-03.34.14:690][210]LogModuleManager: Shutting down and abandoning module AutomationWindow (153)
+[2016.12.10-03.34.14:692][210]LogModuleManager: Shutting down and abandoning module Layers (152)
+[2016.12.10-03.34.14:695][210]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (151)
+[2016.12.10-03.34.14:695][210]LogModuleManager: Shutting down and abandoning module DetailCustomizations (150)
+[2016.12.10-03.34.14:695][210]LogModuleManager: Shutting down and abandoning module PackagesDialog (149)
+[2016.12.10-03.34.14:696][210]LogModuleManager: Shutting down and abandoning module Persona (148)
+[2016.12.10-03.34.14:699][210]LogModuleManager: Shutting down and abandoning module Kismet (147)
+[2016.12.10-03.34.14:699][210]LogModuleManager: Shutting down and abandoning module GraphEditor (146)
+[2016.12.10-03.34.14:699][210]LogModuleManager: Shutting down and abandoning module ClassViewer (145)
+[2016.12.10-03.34.14:701][210]LogModuleManager: Shutting down and abandoning module Toolbox (144)
+[2016.12.10-03.34.14:701][210]LogModuleManager: Shutting down and abandoning module ModuleUI (143)
+[2016.12.10-03.34.14:702][210]LogModuleManager: Shutting down and abandoning module MovieSceneTools (142)
+[2016.12.10-03.34.14:703][210]LogModuleManager: Shutting down and abandoning module OutputLog (141)
+[2016.12.10-03.34.14:704][210]LogModuleManager: Shutting down and abandoning module GammaUI (140)
+[2016.12.10-03.34.14:705][210]LogModuleManager: Shutting down and abandoning module Documentation (139)
+[2016.12.10-03.34.14:705][210]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (138)
+[2016.12.10-03.34.14:705][210]LogModuleManager: Shutting down and abandoning module AnalyticsET (137)
+[2016.12.10-03.34.14:705][210]LogModuleManager: Shutting down and abandoning module Analytics (136)
+[2016.12.10-03.34.14:705][210]LogModuleManager: Shutting down and abandoning module PortalServices (135)
+[2016.12.10-03.34.14:705][210]LogModuleManager: Shutting down and abandoning module PortalRpc (134)
+[2016.12.10-03.34.14:705][210]LogModuleManager: Shutting down and abandoning module MessagingRpc (133)
+[2016.12.10-03.34.14:705][210]LogModuleManager: Shutting down and abandoning module GameplayDebugger (132)
+[2016.12.10-03.34.14:705][210]LogModuleManager: Shutting down and abandoning module AITestSuite (131)
+[2016.12.10-03.34.14:706][210]LogModuleManager: Shutting down and abandoning module AIModule (130)
+[2016.12.10-03.34.14:706][210]LogModuleManager: Shutting down and abandoning module ProfilerService (129)
+[2016.12.10-03.34.14:734][210]LogModuleManager: Shutting down and abandoning module TaskGraph (128)
+[2016.12.10-03.34.14:736][210]LogModuleManager: Shutting down and abandoning module SlateRemote (127)
+[2016.12.10-03.34.14:736][210]LogModuleManager: Shutting down and abandoning module SteamVRController (126)
+[2016.12.10-03.34.14:736][210]LogModuleManager: Shutting down and abandoning module SteamVR (125)
+[2016.12.10-03.34.14:737][210]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (124)
+[2016.12.10-03.34.14:737][210]LogModuleManager: Shutting down and abandoning module OculusLibrary (123)
+[2016.12.10-03.34.14:737][210]LogModuleManager: Shutting down and abandoning module OculusInput (122)
+[2016.12.10-03.34.14:737][210]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (121)
+[2016.12.10-03.34.14:737][210]LogModuleManager: Shutting down and abandoning module CableComponent (120)
+[2016.12.10-03.34.14:737][210]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (119)
+[2016.12.10-03.34.14:737][210]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (118)
+[2016.12.10-03.34.14:739][210]LogModuleManager: Shutting down and abandoning module HTML5Networking (117)
+[2016.12.10-03.34.14:739][210]LogModuleManager: Shutting down and abandoning module SuperSearch (116)
+[2016.12.10-03.34.14:739][210]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (115)
+[2016.12.10-03.34.14:739][210]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (114)
+[2016.12.10-03.34.14:739][210]LogModuleManager: Shutting down and abandoning module PluginBrowser (113)
+[2016.12.10-03.34.14:740][210]LogModuleManager: Shutting down and abandoning module EpicSurvey (112)
+[2016.12.10-03.34.14:740][210]LogModuleManager: Shutting down and abandoning module DesktopPlatform (111)
+[2016.12.10-03.34.14:741][210]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (110)
+[2016.12.10-03.34.14:742][210]LogModuleManager: Shutting down and abandoning module UObjectPlugin (109)
+[2016.12.10-03.34.14:742][210]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (108)
+[2016.12.10-03.34.14:743][210]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (107)
+[2016.12.10-03.34.14:745][210]LogModuleManager: Shutting down and abandoning module SourceControl (106)
+[2016.12.10-03.34.14:746][210]LogModuleManager: Shutting down and abandoning module GitSourceControl (105)
+[2016.12.10-03.34.14:747][210]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (104)
+[2016.12.10-03.34.14:747][210]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (103)
+[2016.12.10-03.34.14:747][210]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (102)
+[2016.12.10-03.34.14:747][210]LogModuleManager: Shutting down and abandoning module MeshPaint (101)
+[2016.12.10-03.34.14:747][210]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (100)
+[2016.12.10-03.34.14:748][210]LogModuleManager: Shutting down and abandoning module HotReload (99)
+[2016.12.10-03.34.14:749][210]LogModuleManager: Shutting down and abandoning module MainFrame (98)
+[2016.12.10-03.34.14:750][210]LogModuleManager: Shutting down and abandoning module LevelEditor (97)
+[2016.12.10-03.34.14:750][210]LogModuleManager: Shutting down and abandoning module ContentBrowser (96)
+[2016.12.10-03.34.14:751][210]LogModuleManager: Shutting down and abandoning module Paper2DEditor (95)
+[2016.12.10-03.34.14:753][210]LogModuleManager: Shutting down and abandoning module UdpMessaging (94)
+[2016.12.10-03.34.14:853][210]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (93)
+[2016.12.10-03.34.14:853][210]LogModuleManager: Shutting down and abandoning module Paper2D (92)
+[2016.12.10-03.34.14:855][210]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (91)
+[2016.12.10-03.34.14:855][210]LogModuleManager: Shutting down and abandoning module Media (90)
+[2016.12.10-03.34.14:855][210]LogModuleManager: Shutting down and abandoning module WmfMedia (89)
+[2016.12.10-03.34.14:856][210]LogModuleManager: Shutting down and abandoning module MediaAssets (88)
+[2016.12.10-03.34.14:856][210]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (87)
+[2016.12.10-03.34.14:857][210]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (86)
+[2016.12.10-03.34.14:857][210]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (85)
+[2016.12.10-03.34.14:857][210]LogModuleManager: Shutting down and abandoning module VREditor (84)
+[2016.12.10-03.34.14:857][210]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (83)
+[2016.12.10-03.34.14:857][210]LogModuleManager: Shutting down and abandoning module PropertyEditor (82)
+[2016.12.10-03.34.14:857][210]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (81)
+[2016.12.10-03.34.14:859][210]LogModuleManager: Shutting down and abandoning module FunctionalTesting (80)
+[2016.12.10-03.34.14:860][210]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (79)
+[2016.12.10-03.34.14:861][210]LogModuleManager: Shutting down and abandoning module Sequencer (78)
+[2016.12.10-03.34.14:862][210]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (77)
+[2016.12.10-03.34.14:862][210]LogModuleManager: Shutting down and abandoning module MessageLog (76)
+[2016.12.10-03.34.14:862][210]LogModuleManager: Shutting down and abandoning module AssetTools (75)
+[2016.12.10-03.34.14:865][210]LogModuleManager: Shutting down and abandoning module UMGEditor (74)
+[2016.12.10-03.34.14:866][210]LogModuleManager: Shutting down and abandoning module UMG (73)
+[2016.12.10-03.34.14:868][210]LogModuleManager: Shutting down and abandoning module SlateReflector (72)
+[2016.12.10-03.34.14:871][210]LogModuleManager: Shutting down and abandoning module Slate (71)
+[2016.12.10-03.34.14:871][210]LogModuleManager: Shutting down and abandoning module EditorStyle (70)
+[2016.12.10-03.34.14:874][210]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (69)
+[2016.12.10-03.34.14:874][210]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (68)
+[2016.12.10-03.34.14:874][210]LogModuleManager: Shutting down and abandoning module XAudio2 (67)
+[2016.12.10-03.34.14:874][210]LogModuleManager: Shutting down and abandoning module Networking (65)
+[2016.12.10-03.34.14:874][210]LogModuleManager: Shutting down and abandoning module Core (64)
+[2016.12.10-03.34.14:874][210]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (63)
+[2016.12.10-03.34.14:875][210]LogModuleManager: Shutting down and abandoning module AssetRegistry (62)
+[2016.12.10-03.34.15:056][210]LogModuleManager: Shutting down and abandoning module KismetCompiler (61)
+[2016.12.10-03.34.15:056][210]LogModuleManager: Shutting down and abandoning module PhysXFormats (60)
+[2016.12.10-03.34.15:056][210]LogModuleManager: Shutting down and abandoning module MeshUtilities (59)
+[2016.12.10-03.34.15:057][210]LogModuleManager: Shutting down and abandoning module DerivedDataCache (58)
+[2016.12.10-03.34.15:143][210]LogDerivedDataCache: Shutdown
+[2016.12.10-03.34.15:143][210]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (57)
+[2016.12.10-03.34.15:144][210]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (56)
+[2016.12.10-03.34.15:145][210]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (55)
+[2016.12.10-03.34.15:146][210]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (54)
+[2016.12.10-03.34.15:146][210]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (53)
+[2016.12.10-03.34.15:146][210]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (52)
+[2016.12.10-03.34.15:147][210]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (51)
+[2016.12.10-03.34.15:147][210]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (50)
+[2016.12.10-03.34.15:147][210]LogModuleManager: Shutting down and abandoning module ImageWrapper (49)
+[2016.12.10-03.34.15:147][210]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (48)
+[2016.12.10-03.34.15:147][210]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (47)
+[2016.12.10-03.34.15:147][210]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (46)
+[2016.12.10-03.34.15:148][210]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (45)
+[2016.12.10-03.34.15:148][210]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (44)
+[2016.12.10-03.34.15:148][210]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (43)
+[2016.12.10-03.34.15:148][210]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (42)
+[2016.12.10-03.34.15:149][210]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (41)
+[2016.12.10-03.34.15:149][210]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (40)
+[2016.12.10-03.34.15:149][210]LogModuleManager: Shutting down and abandoning module Messaging (39)
+[2016.12.10-03.34.15:149][210]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (38)
+[2016.12.10-03.34.15:149][210]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (37)
+[2016.12.10-03.34.15:149][210]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (36)
+[2016.12.10-03.34.15:150][210]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (35)
+[2016.12.10-03.34.15:150][210]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (34)
+[2016.12.10-03.34.15:150][210]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (33)
+[2016.12.10-03.34.15:150][210]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (32)
+[2016.12.10-03.34.15:150][210]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (31)
+[2016.12.10-03.34.15:150][210]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (30)
+[2016.12.10-03.34.15:150][210]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (29)
+[2016.12.10-03.34.15:150][210]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (28)
+[2016.12.10-03.34.15:150][210]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (27)
+[2016.12.10-03.34.15:150][210]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (26)
+[2016.12.10-03.34.15:151][210]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (25)
+[2016.12.10-03.34.15:151][210]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (24)
+[2016.12.10-03.34.15:151][210]LogModuleManager: Shutting down and abandoning module TargetPlatform (23)
+[2016.12.10-03.34.15:152][210]LogModuleManager: Shutting down and abandoning module InputCore (22)
+[2016.12.10-03.34.15:152][210]LogModuleManager: Shutting down and abandoning module Settings (21)
+[2016.12.10-03.34.15:152][210]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (19)
+[2016.12.10-03.34.15:152][210]LogModuleManager: Shutting down and abandoning module HTTP (18)
+[2016.12.10-03.34.19:664][210]LogModuleManager: Shutting down and abandoning module XMPP (17)
+[2016.12.10-03.34.19:665][210]LogModuleManager: Shutting down and abandoning module OculusRift (16)
+[2016.12.10-03.34.19:667][210]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (15)
+[2016.12.10-03.34.19:667][210]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.12.10-03.34.19:667][210]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.12.10-03.34.19:667][210]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.12.10-03.34.19:667][210]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.12.10-03.34.19:671][210]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.12.10-03.34.19:672][210]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.12.10-03.34.19:672][210]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.12.10-03.34.19:672][210]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.12.10-03.34.19:672][210]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.12.10-03.34.19:672][210]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.12.10-03.34.19:672][210]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.12.10-03.34.19:673][210]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.12.10-03.34.19:673][210]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.12.10-03.34.19:673][210]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.12.10-03.34.19:677][210]LogExit: Exiting.
+[2016.12.10-03.34.19:688][210]Log file closed, 12/09/16 19:34:19
